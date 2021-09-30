@@ -1,7 +1,17 @@
 body{
     background-color: rgb(0, 0, 0);
-    margin: 30px;
     color: white;
+    margin: 15px;
+}
+
+.ui.menu:not(.vertical) .item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 13px 12px 13px 12px;
 }
 
 .ui.header{
