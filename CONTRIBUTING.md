@@ -1,6 +1,6 @@
 # Contributing
 
-Before moving ahead with making contributions please make sure that you have read the code of conduct mentioned in the `CODE_OF_CONDUCT.md` file. 
+Before moving ahead with making contributions please make sure that you have read the code of conduct mentioned in the [CODE_OF_CONDUCT.md](https://github.com/vishal-codes/react-widgets/blob/main/CODE_OF_CONDUCT.md) file. 
 <br>
 
 ### Prerequisites
