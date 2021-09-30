@@ -24,7 +24,7 @@ const Convert = ( {language, text} ) => {
                 params: {
                     q: debouncedText,
                     target: language.value,
-                    key: 'key_currently_unavailable'
+                    key: 'AIzaSyDElOAEazlhJckWxrhwWt37KsJxXWBVlDA'//this api key is restricted :)
                 }
             });
             setTranslated(data.data.translations[0].translatedText);
