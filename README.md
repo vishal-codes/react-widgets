@@ -16,5 +16,5 @@ It is a project which I made while learning React.js from a [course on Udemy.](h
 #### You can check the deployed version of the project [here](https://wizardly-hoover-38f71b.netlify.app/) and if you want to contribute to the project then checkout [CONTRIBUTING.md](https://github.com/vishal-codes/react-widgets/blob/main/CONTRIBUTING.md) . There are begineer friendly issues listed in the [issues](https://github.com/vishal-codes/react-widgets/issues) section.
 
 ### Connect 
-I tweet about tech, learnings, opportunities, etc. So if this sounds interesting to feel free to connect with me on twitter [@vishaltwts](https://twitter.com/vishaltwts)
-
+I tweet about tech, learnings, opportunities, etc. So if this sounds interesting to feel free to connect with me on twitter 
+<a href="https://twitter.com/vishaltwts" rel="noreferrer" target="_blank">@vishaltwts</a>
