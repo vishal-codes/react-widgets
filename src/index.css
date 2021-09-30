@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(0, 0, 0);
+    margin: 30px;
+    color: white;
+}
+
+.ui.header{
+    color: white;
+}
+
+/* Search */
+.ui.form .field > label {
+    font-size: 19px;
+    color: white;
+} 
+.ui.list .list > .item .header, .ui.list > .item .header{
+    color: white;
+}
+
+/* Accordion */
+p{
+    color: black;
+}
