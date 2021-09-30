@@ -12,7 +12,7 @@ If you haven't then [this article](https://git-scm.com/book/en/v2/Getting-Starte
 2. Clone your forked version by entering  ``` git clone "https://github.com/YOUR_GITHUB_UserName/react-widgets.git"```
 3. Change the directory from present to the project directory by entering ``` cd react-widgets/```
 4. Install all dependencies by entering ```npm i```
-5. Run the project locally by entering ```npm start```
+5. Run the project locally by entering ```npm start``` <br>This will run the project locally on port `localhost:3000` in your default browser.
 
 ### Branching and Commiting changes
 1. Open a new window of your terminal and change the directory into the project folder
