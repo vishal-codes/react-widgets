@@ -12,7 +12,7 @@ It is a project which I made while learning React.js from a [course on Udemy.](h
 - Postman
 - Netlify
 
-#### You cac check the deployed version of the project [here](https://wizardly-hoover-38f71b.netlify.app/) and if you want to contribute to the project then checkout CONTRIBUTING.md . There are begineer friendly issues listed in the issues section.
+#### You cac check the deployed version of the project [here](https://wizardly-hoover-38f71b.netlify.app/) and if you want to contribute to the project then checkout [CONTRIBUTING.md](https://github.com/vishal-codes/react-widgets/blob/main/CONTRIBUTING.md) . There are begineer friendly issues listed in the issues section.
 
 
 
