@@ -8,6 +8,7 @@ It is a project which I made while learning React.js from a [course on Udemy.](h
 - React.js
 - CSS
 - JavaScript
+- HTML
 - API
 - Postman
 - Netlify
