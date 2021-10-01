@@ -3,51 +3,64 @@ import Dropdown from "./Dropdown";
 import Convert from "./Convert";
 
 const options = [
-  {
-    label: "Afrikaans",
-    value: "af",
-  },
-  {
-    label: "Albanian",
-    value: "sq",
-  },
-  {
-    label: "Bengali",
-    value: "bn",
-  },
-  {
-    label: "English",
-    value: "en",
-  },
-  {
-    label: "French",
-    value: "fr",
-  },
-  {
-    label: "German",
-    value: "de",
-  },
-  {
-    label: "Hindi",
-    value: "hi",
-  },
-  {
-    label: "Italian",
-    value: "it",
-  },
-  {
-    label: "Korean",
-    value: "ko",
-  },
-  {
-    label: "Punjabi",
-    value: "pa",
-  },
-  {
-    label: "Telugu",
-    value: "te",
-  },
-];
+    { 
+        label:'Afrikaans',
+        value:'af'
+    },
+    {
+        label:'Albanian',
+        value:'sq'
+    },
+    {
+       label: 'Arabic',
+       value: 'ar',
+    },
+    {
+	      label: 'Bengali',
+	      value: 'bn'
+    },
+    {
+        label: 'Dutch',
+       	value: 'nl'
+    },
+    {
+        label: 'English',
+        value: 'en'
+    },
+    {
+        label: 'French',
+        value: 'fr'
+    },
+    {
+        label: 'German',
+        value: 'de'
+    },
+    {
+        label: 'Hindi',
+        value: 'hi'
+    },
+    {
+        label: 'Italian',
+        value: 'it'
+    },
+    {
+        label: "Korean",
+        value: "ko",
+    },
+    {
+        label: 'Punjabi',
+        value: 'pa'
+    },
+    {
+        label: 'Telugu',
+        value: 'te'
+    },
+    {
+        label: 'Urdu',
+        value: 'ur'
+    },
+]
+
 
 const Translate = () => {
   const [language, setLanguage] = useState(options[0]);
