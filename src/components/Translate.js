@@ -16,6 +16,10 @@ const options = [
 	value: 'bn'
     },
     {
+        label: 'Dutch',
+	value: 'nl'
+    },
+    {
         label: 'English',
         value: 'en'
     },
@@ -38,10 +42,6 @@ const options = [
     {
         label: 'Punjabi',
         value: 'pa'
-    },
-    {
-	label: 'Dutch',
-	value: 'nl'
     },
 ]
 
