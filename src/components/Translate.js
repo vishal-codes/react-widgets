@@ -20,10 +20,17 @@ const options = [
         value: 'fr'
     },
     {
+        label: 'German',
+        value: 'de'
+    },
+    {
         label: 'Hindi',
         value: 'hi'
     },
-
+    {
+        label: 'Italian',
+        value: 'it'
+    },
 ]
 
 const Translate = () => {
