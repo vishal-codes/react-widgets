@@ -36,6 +36,10 @@ const options = [
         value: 'it'
     },
     {
+        label: 'Luxembourgish',
+        value: 'lb'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
     },
