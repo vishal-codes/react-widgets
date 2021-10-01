@@ -29,12 +29,12 @@ const options = [
     value: "Blue",
   },
   {
-    label: "Yellow",
-    value: "Yellow",
+    label: "CadetBlue",
+    value: "CadetBlue",
   },
   {
-    label: "Aqua",
-    value: "Aqua",
+    label: "Yellow",
+    value: "Yellow",
   },
 ];
 
