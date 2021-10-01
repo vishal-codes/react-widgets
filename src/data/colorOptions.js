@@ -148,6 +148,10 @@ export const colorOptions = [
         value: 'Peru'
     },
     {
+        label: 'Silver',
+        value: 'Silver'
+    },
+    {
         label: 'Purple',
         value: 'Purple'
     },
