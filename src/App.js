@@ -31,6 +31,10 @@ const options = [
         value: 'Aqua'
     },
     {
+        label: 'Crimson',
+        value: 'Crimson'
+    },
+    {
     	label: 'Azure',
     	value: 'Azure'
     },
