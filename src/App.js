@@ -51,6 +51,7 @@ const options = [
 	 value:'DarkBlue',
     },
     {
+
         label: 'DeepPink',
         value: 'DeepPink'
     },
