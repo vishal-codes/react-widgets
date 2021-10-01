@@ -16,12 +16,12 @@ const options = [
         value: 'ar',
     },
     {
-	    label: 'Bengali',
-	    value: 'bn'
+	label: 'Bengali',
+	value: 'bn'
     },
-	{
-	    label: 'Bulgarian',
-	    value: 'bg'
+    {
+	label: 'Bulgarian',
+        value: 'bg'
     },
     {
         label: 'Dutch',
