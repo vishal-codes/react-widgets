@@ -23,10 +23,6 @@ const items = [
 
 const options = [
     {
-        label: 'AliceBlue',
-        value: 'AliceBlue'
-    },
-    {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -35,8 +31,8 @@ const options = [
         value: 'Aqua'
     },
     {
-    	label: 'Azure',
-    	value: 'Azure'
+        label: 'Aquamarine',
+        value: 'Aquamarine'
     },
     {
         label: 'Blue',
