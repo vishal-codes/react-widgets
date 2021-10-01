@@ -42,6 +42,10 @@ const options = [
         label: 'CadetBlue',
         value: 'CadetBlue',
     },
+     {
+        label: 'Coral',
+        value: 'Coral'
+    },
     {
         label: 'DarkRed',
         value: 'Darkred'
