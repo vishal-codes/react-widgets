@@ -36,20 +36,16 @@ const options = [
     value: "it",
   },
   {
+    label: "Korean",
+    value: "ko",
+  },
+  {
     label: "Punjabi",
     value: "pa",
   },
   {
     label: "Telugu",
     value: "te",
-  },
-  {
-    label: "Korean",
-    value: "ko",
-  },
-  {
-    label: "Sindhi",
-    value: "sd",
   },
 ];
 
