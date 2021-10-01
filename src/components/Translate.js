@@ -4,6 +4,10 @@ import Convert from "./Convert";
 
 const options = [
     {
+        label: 'Dutch',
+        value: 'nl'
+    }
+    {
         label: 'English',
         value: 'en'
     },
@@ -15,6 +19,7 @@ const options = [
         label: 'Hindi',
         value: 'hi'
     },
+    
 ]
 
 const Translate = () => {
