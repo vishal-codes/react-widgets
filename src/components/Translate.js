@@ -12,6 +12,10 @@ const options = [
         value:'sq'
     },
     {
+       label: 'Arabic',
+       value: 'ar',
+    },
+    {
         label: 'Bengali',
         value: 'bn'
     },
@@ -43,6 +47,11 @@ const options = [
         label: 'Telugu',
         value: 'te'
     },
+    {
+        label: 'Urdu',
+        value: 'ur'
+    },
+
 ]
 
 const Translate = () => {
