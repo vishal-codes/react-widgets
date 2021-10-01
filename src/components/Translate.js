@@ -119,6 +119,10 @@ const options = [
         label: 'Zulu',
         value: 'zu'
     },
+    {
+        label: 'Pashto',
+        value: 'ps'
+    },
 ]
 
 
