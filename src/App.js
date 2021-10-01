@@ -77,10 +77,6 @@ const options = [
         label: 'DarkOliveGreen',
         value: 'DarkOliveGreen'
     },
-    {
-        label: 'DarkOrange',
-        value: 'DarkOrange'
-    },
 ]
 
 export default ()=> {
