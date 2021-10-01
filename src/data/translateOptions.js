@@ -112,6 +112,10 @@ export const translateOptions = [
         value: 'no'
     },
     {
+        label: 'Portuguese',
+        value: 'pt'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
     },
