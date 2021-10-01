@@ -35,6 +35,10 @@ const options = [
         label: 'Italian',
         value: 'it'
     },
+    {
+        label: 'Punjabi',
+        value: 'pa'
+    },
 ]
 
 const Translate = () => {
