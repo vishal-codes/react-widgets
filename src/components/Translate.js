@@ -4,6 +4,10 @@ import Convert from "./Convert";
 
 const options = [
     {
+	label: 'Bengali',
+	value: 'bn'
+    },
+    {
         label: 'English',
         value: 'en'
     },
@@ -14,6 +18,10 @@ const options = [
     {
         label: 'Hindi',
         value: 'hi'
+    },
+    {
+	label: 'Japanese',
+	value: 'ja'
     },
 ]
 
