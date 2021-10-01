@@ -24,6 +24,10 @@ const options = [
         value: 'bg'
     },
     {
+        label: 'Danish',
+        value: 'dk'
+    },
+    {
         label: 'Dutch',
        	value: 'nl'
     },
@@ -32,9 +36,14 @@ const options = [
         value: 'en'
     },
     {
+        label: 'Finnish',
+        value: 'fi'
+    },
+    {
         label: 'French',
         value: 'fr'
     },
+
     {
         label: 'Frisian',
         value: 'fy'
@@ -72,8 +81,16 @@ const options = [
         value: 'ml'
     },
     {
+        label: 'Norwegian',
+        value: 'no'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Swedish',
+        value: 'se'
     },
     {
         label: 'Tamil',
