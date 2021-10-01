@@ -23,6 +23,10 @@ const items = [
 
 const options = [
     {
+        label: 'AliceBlue',
+        value: 'AliceBlue'
+    },
+    {
         label: 'Aqua',
         value: 'Aqua'
     },
@@ -31,8 +35,8 @@ const options = [
         value: 'Blue'
     },
     {
-    	label: 'CadetBlue',
-    	value: 'CadetBlue',
+        label: 'CadetBlue',
+        value: 'CadetBlue',
     },
     {
         label: 'DarkRed',
