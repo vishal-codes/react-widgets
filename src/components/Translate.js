@@ -36,12 +36,20 @@ const options = [
         value: 'de'
     },
     {
+        label: 'Gujarati',
+        value: 'gu'
+    },
+    {
         label: 'Hindi',
         value: 'hi'
     },
     {
         label: 'Italian',
         value: 'it'
+    },
+    {
+        label: 'Japanese',
+        value: 'ja'
     },
     {
         label: "Korean",
