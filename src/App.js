@@ -30,6 +30,38 @@ const options = [
         label: 'Yellow',
         value: 'Yellow'
     },
+    {
+        label: 'AliceBlue',
+        value: '#F0F8FF'
+    },
+    {
+        label: 'AntiqueWhite',
+        value: '#FAEBD7'
+    },
+    {
+        label: 'Aqua',
+        value: '#00FFFF'
+    },
+    {
+        label: 'Aquamarine',
+        value: '#7FFFD4'
+    },
+    {
+        label: 'Azure',
+        value: '#F0FFFF'
+    },
+    {
+        label: 'Beige',
+        value: '#F5F5DC'
+    },
+    {
+        label: 'Bisque',
+        value: '#FFE4C4'
+    },
+    {
+        label: 'Black',
+        value: '#000000'
+    },
 ]
 
 export default ()=> {
