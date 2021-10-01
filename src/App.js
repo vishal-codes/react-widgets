@@ -43,8 +43,20 @@ const options = [
         value: 'Blue'
     },
     {
+        label: 'BlueViolet',
+        value: 'BlueViolet'
+    },
+    {
+        label: 'Brown',
+        value: 'Brown'
+    },
+    {
         label: 'CadetBlue',
         value: 'CadetBlue',
+    },
+    {
+        label: 'Charteuse',
+        value: 'Charteuse'
     },
     {
         label: 'DeepPink',
