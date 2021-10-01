@@ -22,6 +22,10 @@ const items = [
 ];
 
 const options = [
+    {   
+        label: 'AntiqueWhite',
+        value: 'AntiqueWhite'
+    },
     {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
@@ -41,6 +45,10 @@ const options = [
     {
         label: 'CadetBlue',
         value: 'CadetBlue',
+    },
+    {
+        label: 'DeepPink',
+        value: 'DeepPink'
     },
     {
         label: 'DarkRed',
