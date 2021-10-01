@@ -44,12 +44,12 @@ const options = [
         value: 'hi'
     },
     {
-        label: 'Japanese',
-        value: 'ja'
+        label: 'Italian',
+        value: 'it'
     },
     {
-        label: 'Gujarati',
-        value: 'gu'
+        label: 'Japanese',
+        value: 'ja'
     },
     {
         label: 'Punjabi',
