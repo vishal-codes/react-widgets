@@ -20,6 +20,14 @@ const options = [
 	      value: 'bn'
     },
     {
+       label: 'Czech',
+       value: 'cs',
+    },
+    {
+       label: 'Arabic',
+       value: 'ar',
+    },
+    {
         label: 'Dutch',
        	value: 'nl'
     },
