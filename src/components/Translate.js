@@ -59,6 +59,10 @@ const options = [
         label: 'Urdu',
         value: 'ur'
     },
+    {
+        label: 'Spanish',
+        value: 'sp'
+    },
 ]
 
 
