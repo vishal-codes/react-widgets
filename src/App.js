@@ -62,6 +62,14 @@ const options = [
         value: 'Pink'
     },
     {
+        label: 'Purple',
+        value: 'Purple'
+    },
+    {
+        label: 'Voilet',
+        value: 'Voilet'
+    },
+    {
         label: 'Yellow',
         value: 'Yellow'
     },
