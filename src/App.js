@@ -24,27 +24,35 @@ const items = [
 ];
 
 const options = [
-  {
-    label: "Blue",
-    value: "Blue",
-  },
-  {
-    label: "DarkRed",
-    value: "Darkred",
-  },
-  {
-    label: "Olive",
-    value: "Olive",
-  },
-  {
-    label: "Yellow",
-    value: "Yellow",
-  },
-  {
-    label: "Linen",
-    value: "Linen",
-  },
-];
+    {
+        label: 'Blue',
+        value: 'Blue'
+    },
+    {
+        label: 'DarkRed',
+        value: 'Darkred'
+    },
+    {
+        label:'Linen',
+        label:'Linen'
+    },
+    {
+        label: 'Maroon',
+        value: 'Maroon'
+    },
+    {
+        label: 'Olive',
+        value: 'Olive'
+    },
+    {
+        label: 'Pink',
+        value: 'Pink'
+    },
+    {
+        label: 'Yellow',
+        value: 'Yellow'
+    },
+]
 
 export default () => {
   const [selected, setSelected] = useState(options[0]);
