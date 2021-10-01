@@ -44,8 +44,16 @@ const options = [
         value: 'it'
     },
     {
+        label: 'Malayalam',
+        value: 'ml'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Tamil',
+        value: 'ta'
     },
     {
         label: 'Telugu',
