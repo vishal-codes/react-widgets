@@ -27,16 +27,16 @@ const options = [
         value: 'Blue'
     },
     {
-        label: 'Yellow',
-        value: 'Yellow'
-    },
-    {
         label: 'DarkRed',
         value: 'Darkred'
     },
     {
         label: 'Olive',
         value: 'Olive'
+    },
+    {
+        label: 'Yellow',
+        value: 'Yellow'
     },
 ]
 
