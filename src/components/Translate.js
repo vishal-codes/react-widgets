@@ -12,26 +12,17 @@ const options = [
         value: 'fr'
     },
     {
-        label: 'Hindi',
-        value: 'hi'
+        label: 'German',
+        value: 'de'
     },
     {
-        label: 'Russian',
-        value: 'ru'
+        label: 'Hindi',
+        value: 'hi'
     },
     {
         label: 'Italian',
         value: 'it'
     },
-    {
-        label: 'German',
-        value: 'de'
-    },
-    {
-        label: 'Japanese',
-        value: 'ja'
-    },
-    
 ]
 
 const Translate = () => {
