@@ -31,6 +31,10 @@ const options = [
         value: 'Darkred'
     },
     {
+        label: 'Maroon',
+        value: 'Maroon'
+    },
+    {
         label: 'Olive',
         value: 'Olive'
     },
