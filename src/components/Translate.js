@@ -59,6 +59,38 @@ const options = [
         label: 'Urdu',
         value: 'ur'
     },
+    {
+        label: 'Uyghur',
+        value: 'ug'
+    },
+    {
+        label: 'Uzbek',
+        value: 'uz'
+    },
+    {
+        label: 'Vietnamese',
+        value: 'vi'
+    },
+    {
+        label: 'Welsh',
+        value: 'cy'
+    },
+    {
+        label: 'Xhosa',
+        value: 'xh'
+    },
+    {
+        label: 'Yiddish',
+        value: 'yi'
+    },
+    {
+        label: 'Yoruba',
+        value: 'yo'
+    },
+    {
+        label: 'Zulu',
+        value: 'zu'
+    },
 ]
 
 
