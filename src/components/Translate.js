@@ -3,6 +3,18 @@ import Dropdown from "./Dropdown";
 import Convert from "./Convert";
 
 const options = [
+    { 
+        label:'Afrikaans',
+        value:'af'
+    },
+    {
+        label:'Albanian',
+        value:'sq'
+    },
+    {
+	      label: 'Bengali',
+	      value: 'bn'
+    },
     {
         label: 'English',
         value: 'en'
@@ -12,8 +24,20 @@ const options = [
         value: 'fr'
     },
     {
+        label: 'German',
+        value: 'de'
+    },
+    {
         label: 'Hindi',
         value: 'hi'
+    },
+    {
+        label: 'Italian',
+        value: 'it'
+    },
+    {
+        label: 'Punjabi',
+        value: 'pa'
     },
 ]
 
