@@ -12,16 +12,20 @@ const options = [
         value:'sq'
     },
     {
-       label: 'Arabic',
-       value: 'ar',
+        label: 'Arabic',
+        value: 'ar',
     },
     {
-       label: 'Bengali',
-       value: 'bn'
+        label: 'Bengali',
+      	value: 'bn'
+    }, 
+    {
+	      label: 'Bulgarian',
+        value: 'bg'
     },
     {
-       label: 'Czech',
-       value: 'cs',
+        label: 'Czech',
+        value: 'cs',
     },
     {
         label: 'Dutch',
