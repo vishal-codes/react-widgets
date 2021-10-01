@@ -32,6 +32,14 @@ const options = [
         value: 'fr'
     },
     {
+        label: 'Frisian',
+        value: 'fy'
+    },
+    {
+        label: 'Galician',
+        value: 'gl'
+    },
+    {
         label: 'German',
         value: 'de'
     },
