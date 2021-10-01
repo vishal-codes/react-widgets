@@ -76,6 +76,14 @@ const options = [
         value: 'pa'
     },
     {
+        label: 'Sinhala',
+        value: 'si'
+    },
+    {
+        label: 'Spanish',
+        value: 'es'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
     },
