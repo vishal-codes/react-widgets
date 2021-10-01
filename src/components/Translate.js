@@ -16,8 +16,12 @@ const options = [
        value: 'ar',
     },
     {
-        label: 'Bengali',
-        value: 'bn'
+	      label: 'Bengali',
+	      value: 'bn'
+    },
+    {
+        label: 'Dutch',
+       	value: 'nl'
     },
     {
         label: 'English',
@@ -51,7 +55,6 @@ const options = [
         label: 'Urdu',
         value: 'ur'
     },
-
 ]
 
 const Translate = () => {
