@@ -62,6 +62,10 @@ const options = [
         value: 'Pink'
     },
     {
+        label: 'Peru',
+        value: 'Peru'
+    },
+    {
         label: 'Yellow',
         value: 'Yellow'
     },
