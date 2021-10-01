@@ -27,12 +27,12 @@ const options = [
         value: 'Blue'
     },
     {
-        label: 'Yellow',
-        value: 'Yellow'
-    },
-    {
         label: 'Maroon',
         value: 'Maroon'
+    },
+    {
+        label: 'Yellow',
+        value: 'Yellow'
     },
 ]
 
