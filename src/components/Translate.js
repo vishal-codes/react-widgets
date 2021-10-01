@@ -19,6 +19,10 @@ const options = [
 	      label: 'Bengali',
 	      value: 'bn'
     },
+	{
+	      label: 'Bulgarian',
+	      value: 'bg'
+    },
     {
         label: 'Dutch',
        	value: 'nl'
