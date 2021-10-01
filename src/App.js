@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
-import Accordion from './components/Accordion';
-import Search from './components/Search';
-import Dropdown from './components/Dropdown';
-import Translate from './components/Translate';
-import Route from './components/Route';
-import Header from './components/Header';
+import Accordion from './components/pages/Accordion';
+import Search from './components/pages/Search';
+import Dropdown from './components/pages/Dropdown';
+import Translate from './components/pages/Translate';
+
+import Header from './components/base/Header';
+
+import Routes from './routes';
 
 const items = [
     {
@@ -81,13 +83,13 @@ export default ()=> {
     return (
         <div>
             <Header/>
-            <Route path="/">
+            <Routes path="/">
                 <Accordion items={items}/>
-            </Route>
-            <Route path="/list">
+            </Routes>
+            <Routes path="/list">
                 <Search/>
-            </Route>
-            <Route path="/dropdown">
+            </Routes>
+            <Routes path="/dropdown">
                 <Dropdown 
                    selected={selected} 
                    options={options}
@@ -95,10 +97,10 @@ export default ()=> {
                    label="Select a color"
                    demo="Here's the Color"
                 />
-            </Route>
-            <Route path="/translate">
+            </Routes>
+            <Routes path="/translate">
                 <Translate/>
-            </Route>
+            </Routes>
         </div>
     );
 };
