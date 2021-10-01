@@ -4,6 +4,14 @@ import Convert from "./Convert";
 
 const options = [
     {
+        label:'Afrikaans',
+        value:'af'
+    },
+    {
+        label:'Albanian',
+        value:'sq'
+    },
+    {
         label: 'English',
         value: 'en'
     },
