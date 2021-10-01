@@ -23,8 +23,24 @@ const items = [
 
 const options = [
     {
+        label: 'AntiqueWhite',
+        value: 'AntiqueWhite'
+    },
+    {
+        label: 'Aqua',
+        value: 'Aqua'
+    },
+    {
+        label: 'Aquamarine',
+        value: 'Aquamarine'
+    },
+    {
         label: 'Blue',
         value: 'Blue'
+    },
+    {
+    	label: 'CadetBlue',
+    	value: 'CadetBlue',
     },
     {
         label: 'DarkRed',
@@ -39,12 +55,12 @@ const options = [
         value: 'Olive'
     },
     {
-        label: 'Yellow',
-        value: 'Yellow'
+        label: 'Pink',
+        value: 'Pink'
     },
     {
-        label: 'Aquamarine',
-        value: 'Aquamarine'
+        label: 'Yellow',
+        value: 'Yellow'
     },
 ]
 
