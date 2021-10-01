@@ -22,51 +22,53 @@ const items = [
 ];
 
 const options = [
-    {
-        label: 'AliceBlue',
-        value: 'AliceBlue'
-    },
-    {
-        label: 'AntiqueWhite',
-        value: 'AntiqueWhite'
-    },
-    {
-        label: 'Aqua',
-        value: 'Aqua'
-    },
-    {
-    	label: 'Azure',
-    	value: 'Azure'
-    },
-    {
-        label: 'Blue',
-        value: 'Blue'
-    },
-    {
-        label: 'CadetBlue',
-        value: 'CadetBlue',
-    },
-    {
-        label: 'DarkRed',
-        value: 'Darkred'
-    },
-    {
-        label: 'Maroon',
-        value: 'Maroon'
-    },
-    {
-        label: 'Olive',
-        value: 'Olive'
-    },
-    {
-        label: 'Pink',
-        value: 'Pink'
-    },
-    {
-        label: 'Yellow',
-        value: 'Yellow'
-    },
-]
+  {
+    label: "AliceBlue",
+    value: "AliceBlue",
+  },
+  {
+    label: "AntiqueWhite",
+    value: "AntiqueWhite",
+  },
+  {
+    label: "Aqua",
+    value: "Aqua",
+  },
+  {
+    label: "Azure",
+    value: "Azure",
+  },
+  {
+    label: "Blue",
+    value: "Blue",
+  },
+  {
+    label: "CadetBlue",
+    value: "CadetBlue",
+  },
+  {
+    label: "DarkRed",
+    value: "Darkred",
+  },
+  { label: "LightCoral",
+    value: "LightCoral" },
+  {
+    label: "Maroon",
+    value: "Maroon",
+  },
+  {
+    label: "Olive",
+    value: "Olive",
+  },
+  {
+    label: "Pink",
+    value: "Pink",
+  },
+  {
+    label: "Yellow",
+    value: "Yellow",
+  },
+];
 
 export default ()=> {
     const [selected, setSelected] = useState(options[0]);
