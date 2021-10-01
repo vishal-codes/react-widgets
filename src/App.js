@@ -66,6 +66,10 @@ const options = [
   {
     label: 'Yellow',
     value: 'Yellow'
+  },
+  {
+    label: 'YellowGreen',
+    value: 'YellowGreen'
   }
 ];
 
