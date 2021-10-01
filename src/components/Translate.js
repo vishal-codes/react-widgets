@@ -3,9 +3,17 @@ import Dropdown from "./Dropdown";
 import Convert from "./Convert";
 
 const options = [
+    { 
+        label:'Afrikaans',
+        value:'af'
+    },
     {
-	label: 'Bengali',
-	value: 'bn'
+        label:'Albanian',
+        value:'sq'
+    },
+    {
+	      label: 'Bengali',
+	      value: 'bn'
     },
     {
         label: 'English',

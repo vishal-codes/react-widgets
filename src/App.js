@@ -27,6 +27,10 @@ const options = [
         value: 'Blue'
     },
     {
+    	label: 'CadetBlue',
+    	value: 'CadetBlue',
+    },
+    {
         label: 'DarkRed',
         value: 'Darkred'
     },
@@ -37,6 +41,10 @@ const options = [
     {
         label: 'Olive',
         value: 'Olive'
+    },
+    {
+        label: 'Pink',
+        value: 'Pink'
     },
     {
         label: 'Yellow',
