@@ -24,6 +24,10 @@ const options = [
         value: 'fr'
     },
     {
+        label: 'Galician',
+        value: 'gl'
+    },
+    {
         label: 'German',
         value: 'de'
     },
