@@ -12,8 +12,16 @@ const options = [
         value:'sq'
     },
     {
-        label: 'Bengali',
-        value: 'bn'
+       label: 'Arabic',
+       value: 'ar',
+    },
+    {
+	      label: 'Bengali',
+	      value: 'bn'
+    },
+    {
+        label: 'Dutch',
+       	value: 'nl'
     },
     {
         label: 'English',
@@ -42,6 +50,10 @@ const options = [
     {
         label: 'Telugu',
         value: 'te'
+    },
+    {
+        label: 'Urdu',
+        value: 'ur'
     },
 ]
 
