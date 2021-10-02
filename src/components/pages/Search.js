@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { debounce } from '../commons/utils';
+import { debounce } from '../../commons/utils';
 import axios from 'axios';
 
 const Search = () => {
