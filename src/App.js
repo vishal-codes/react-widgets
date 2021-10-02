@@ -55,6 +55,10 @@ const options = [
         value: 'Charteuse'
     },
     {
+        label: 'Chocolate',
+        value: 'Chocolate'
+    },
+    {
         label: 'Coral',
         value: 'Coral'
     },
