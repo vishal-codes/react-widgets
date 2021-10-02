@@ -49,7 +49,7 @@ const options = [
     },
     {
         label: 'CadetBlue',
-        value: 'CadetBlue',
+        value: 'CadetBlue'
     },
     {
         label: 'Charteuse',
@@ -58,6 +58,10 @@ const options = [
     {
         label: 'Coral',
         value: 'Coral'
+    },
+    {
+	      label:'DarkBlue',
+	      value:'DarkBlue'
     },
     {
         label: 'DarkRed',
