@@ -4,24 +4,36 @@ import Convert from "./Convert";
 
 const options = [
     { 
-        label:'Afrikaans',
-        value:'af'
+        label: 'Afrikaans',
+        value: 'af'
     },
     {
-        label:'Albanian',
-        value:'sq'
+        label: 'Albanian',
+        value: 'sq'
+    },
+    {
+        label:'Amharic',
+        value:'am'
     },
     {
         label: 'Arabic',
-        value: 'ar',
+        value: 'ar'
     },
     {
-	label: 'Bengali',
-	value: 'bn'
+        label: 'Armenian',
+        value: 'hy',
     },
     {
-	label: 'Bulgarian',
+        label: 'Bengali',
+      	value: 'bn'
+    }, 
+    {
+	      label: 'Bulgarian',
         value: 'bg'
+    },
+    {
+        label: 'Czech',
+        value: 'cs',
     },
     {
         label: 'Dutch',
@@ -64,16 +76,36 @@ const options = [
         value: 'ja'
     },
     {
-        label: "Korean",
-        value: "ko",
+        label: 'Korean',
+        value: 'ko'
+    },
+    {
+        label: 'Luxembourgish',
+        value: 'lb'
     },
     {
         label: 'Malayalam',
         value: 'ml'
     },
     {
+        label: 'Nepali',
+        value: 'ne'
+    },
+    {
+        label: 'Norwegian',
+        value: 'no'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Russian',
+        value: 'ru'
+    },
+    {
+        label: 'Spanish',
+        value: 'es'
     },
     {
         label: 'Tamil',
