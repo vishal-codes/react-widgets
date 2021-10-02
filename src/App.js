@@ -22,25 +22,48 @@ const items = [
 ];
 
 const options = [
+    {   
+        label: 'AntiqueWhite',
+        value: 'AntiqueWhite'
+    },
     {
         label: 'Aqua',
         value: 'Aqua'
+    },
+    {
+        label: 'Aquamarine',
+        value: 'Aquamarine'
     },
     {
         label: 'Blue',
         value: 'Blue'
     },
     {
-    	label: 'CadetBlue',
-    	value: 'CadetBlue',
+        label: 'BlueViolet',
+        value: 'BlueViolet'
     },
     {
-        label: 'DeepPink',
-        value: 'DeepPink'
+        label: 'Brown',
+        value: 'Brown'
+    },
+    {
+        label: 'CadetBlue',
+        value: 'CadetBlue',
+    },
+    {
+        label: 'Charteuse',
+        value: 'Charteuse'
+    },
+    {
+        label: 'Coral',
+        value: 'Coral'
     },
     {
         label: 'DarkRed',
         value: 'Darkred'
+    },
+    {   label: "DeepPink",
+        value: "DeepPink" 
     },
     {
         label: 'Maroon',
