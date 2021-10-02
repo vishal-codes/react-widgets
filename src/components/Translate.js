@@ -12,21 +12,33 @@ const options = [
         value: 'sq'
     },
     {
+        label: 'Amharic',
+        value: 'am'
+    },
+    {
         label: 'Arabic',
         value: 'ar'
     },
     {
-      	label: 'Bengali',
-      	value: 'bn'
+        label: 'Armenian',
+        value: 'hy',
     },
+    {
+        label: 'Bengali',
+      	value: 'bn'
+    }, 
     {
 	      label: 'Bulgarian',
         value: 'bg'
     },
     {
+        label: 'Czech',
+        value: 'cs',
+    },
+    {
         label: 'Danish',
         value: 'dk'
-    },
+    }, 
     {
         label: 'Dutch',
        	value: 'nl'
