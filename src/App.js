@@ -22,7 +22,7 @@ const items = [
 ];
 
 const options = [
-    {   
+    {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -47,7 +47,11 @@ const options = [
         value: 'Darkred'
     },
     {   label: "DeepPink",
-        value: "DeepPink" 
+        value: "DeepPink"
+    },
+    {
+        label: 'LightSalmon',
+        value: 'LightSalmon'
     },
     {
         label: 'Maroon',
@@ -80,8 +84,8 @@ export default ()=> {
                 <Search/>
             </Route>
             <Route path="/dropdown">
-                <Dropdown 
-                   selected={selected} 
+                <Dropdown
+                   selected={selected}
                    options={options}
                    onSelectedChange={setSelected}
                    label="Select a color"
