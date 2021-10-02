@@ -16,11 +16,11 @@ const options = [
         value: 'ar'
     },
     {
-        label: 'Bengali',
-        value: 'bn'
+      	label: 'Bengali',
+      	value: 'bn'
     },
     {
-        label: 'Bulgarian',
+	      label: 'Bulgarian',
         value: 'bg'
     },
     {
@@ -68,8 +68,20 @@ const options = [
         value: 'ko'
     },
     {
+        label: 'Luxembourgish',
+        value: 'lb'
+    },
+    {
         label: 'Malayalam',
         value: 'ml'
+    },
+    {
+        label: 'Nepali',
+        value: 'ne'
+    },
+    {
+        label: 'Norwegian',
+        value: 'no'
     },
     {
         label: 'Punjabi',
