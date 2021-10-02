@@ -3,6 +3,7 @@ import Accordion from './components/pages/Accordion';
 import Search from './components/pages/Search';
 import Dropdown from './components/pages/Dropdown';
 import Translate from './components/pages/Translate';
+import TextUtils from './components/pages/TextUtils'
 
 import Header from './components/base/Header';
 
@@ -33,6 +34,9 @@ export default ()=> {
             </Routes>
             <Routes path="/translate">
                 <Translate/>
+            </Routes>
+            <Routes path="/textutils">
+                <TextUtils />
             </Routes>
         </div>
     );
