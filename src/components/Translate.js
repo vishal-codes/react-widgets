@@ -24,6 +24,10 @@ const options = [
         value: 'bg'
     },
     {
+	label: 'Catalan',
+        value: 'ca'
+    }
+    {
         label: 'Dutch',
        	value: 'nl'
     },
