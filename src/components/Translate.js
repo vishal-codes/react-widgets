@@ -60,6 +60,10 @@ const options = [
         value: 'it'
     },
     {
+        label: 'Luxembourgish',
+        value: 'lb'
+    },
+    {
         label: 'Japanese',
         value: 'ja'
     },
