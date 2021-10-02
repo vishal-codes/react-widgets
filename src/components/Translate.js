@@ -52,16 +52,16 @@ const options = [
         value: 'pa'
     },
     {
+        label: 'Spanish',
+        value: 'sp'
+    },
+    {
         label: 'Telugu',
         value: 'te'
     },
     {
         label: 'Urdu',
         value: 'ur'
-    },
-    {
-        label: 'Spanish',
-        value: 'sp'
     },
 ]
 
