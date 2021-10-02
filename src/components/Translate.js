@@ -4,16 +4,16 @@ import Convert from "./Convert";
 
 const options = [
     { 
-        label:'Afrikaans',
-        value:'af'
+        label: 'Afrikaans',
+        value: 'af'
     },
     {
-        label:'Albanian',
-        value:'sq'
+        label: 'Albanian',
+        value: 'sq'
     },
     {
         label: 'Arabic',
-        value: 'ar',
+        value: 'ar'
     },
     {
       	label: 'Bengali',
@@ -60,16 +60,16 @@ const options = [
         value: 'it'
     },
     {
-        label: 'Luxembourgish',
-        value: 'lb'
-    },
-    {
         label: 'Japanese',
         value: 'ja'
     },
     {
-        label: "Korean",
-        value: "ko",
+        label: 'Korean',
+        value: 'ko'
+    },
+    {
+        label: 'Luxembourgish',
+        value: 'lb'
     },
     {
         label: 'Malayalam',
@@ -86,6 +86,10 @@ const options = [
     {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Russian',
+        value: 'ru'
     },
     {
         label: 'Spanish',
