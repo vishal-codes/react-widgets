@@ -65,6 +65,12 @@ const options = [
     {   label: "DeepPink",
         value: "DeepPink" 
     },
+    {   label: "DarkOliveGreen",
+        value: "DarkOliveGreen" 
+    },
+    {   label: "DarkOrange",
+        value: "DarkOrange" 
+    },
     {
         label: 'Maroon',
         value: 'Maroon'
