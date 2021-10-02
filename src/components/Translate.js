@@ -26,7 +26,7 @@ const options = [
     {
 	label: 'Catalan',
         value: 'ca'
-    }
+    },
     {
         label: 'Dutch',
        	value: 'nl'
