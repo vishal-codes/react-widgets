@@ -27,10 +27,6 @@ const options = [
         value: 'AntiqueWhite'
     },
     {
-        label: 'AntiqueWhite',
-        value: 'AntiqueWhite'
-    },
-    {
         label: 'Aqua',
         value: 'Aqua'
     },
@@ -57,6 +53,10 @@ const options = [
     {
         label: 'Charteuse',
         value: 'Charteuse'
+    },
+    {
+        label: 'Coral',
+        value: 'Coral'
     },
     {
         label: 'DeepPink',
