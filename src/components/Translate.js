@@ -92,6 +92,10 @@ const options = [
         value: 'ru'
     },
     {
+        label: 'Slovak',
+        value: 'sk'
+    },
+    {
         label: 'Spanish',
         value: 'es'
     },
