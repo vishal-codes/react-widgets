@@ -27,10 +27,6 @@ const options = [
         value: 'AntiqueWhite'
     },
     {
-        label: 'AntiqueWhite',
-        value: 'AntiqueWhite'
-    },
-    {
         label: 'Aqua',
         value: 'Aqua'
     },
@@ -45,10 +41,6 @@ const options = [
     {
         label: 'CadetBlue',
         value: 'CadetBlue',
-    },
-    {
-        label: 'DeepPink',
-        value: 'DeepPink'
     },
     {
         label: 'DarkRed',
