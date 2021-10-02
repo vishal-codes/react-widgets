@@ -70,6 +70,14 @@ const options = [
         value: 'DeepPink' 
     },
     {
+        label: 'Gold',
+        value: 'Gold'
+    },
+    {
+        label: 'Green',
+        value: 'Green'
+    },
+    {
         label: 'Maroon',
         value: 'Maroon'
     },
