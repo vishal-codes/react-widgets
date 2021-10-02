@@ -16,11 +16,11 @@ const options = [
         value: 'ar',
     },
     {
-	label: 'Bengali',
-	value: 'bn'
+      	label: 'Bengali',
+      	value: 'bn'
     },
     {
-	label: 'Bulgarian',
+	      label: 'Bulgarian',
         value: 'bg'
     },
     {
@@ -74,6 +74,10 @@ const options = [
     {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Spanish',
+        value: 'es'
     },
     {
         label: 'Tamil',
