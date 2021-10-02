@@ -44,6 +44,10 @@ export const translateOptions = [
         value: 'en'
     },
     {
+        label: 'Finnish',
+        value: 'fi'
+    },
+    {
         label: 'French',
         value: 'fr'
     },
