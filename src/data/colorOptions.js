@@ -1,90 +1,94 @@
 export const colorOptions = [
-    {   
-        label: 'AntiqueWhite',
-        value: 'AntiqueWhite'
+    {
+        label: "AntiqueWhite",
+        value: "AntiqueWhite",
     },
     {
-        label: 'Aqua',
-        value: 'Aqua'
+        label: "Aqua",
+        value: "Aqua",
     },
     {
-        label: 'Aquamarine',
-        value: 'Aquamarine'
+        label: "Aquamarine",
+        value: "Aquamarine",
     },
     {
-        label: 'Blue',
-        value: 'Blue'
+        label: "Blue",
+        value: "Blue",
     },
     {
-        label: 'BlueViolet',
-        value: 'BlueViolet'
+        label: "BlueViolet",
+        value: "BlueViolet",
     },
     {
-        label: 'Brown',
-        value: 'Brown'
+        label: "Brown",
+        value: "Brown",
     },
     {
-        label: 'CadetBlue',
-        value: 'CadetBlue'
+        label: "CadetBlue",
+        value: "CadetBlue",
     },
     {
-        label: 'Charteuse',
-        value: 'Charteuse'
+        label: "Charteuse",
+        value: "Charteuse",
     },
     {
-        label: 'Coral',
-        value: 'Coral'
+        label: "Coral",
+        value: "Coral",
     },
     {
-	      label: 'DarkBlue',
-	      value: 'DarkBlue'
+        label: "DarkBlue",
+        value: "DarkBlue",
     },
     {
-        label: 'DarkRed',
-        value: 'Darkred'
-    },
-    {   
-        label: 'DeepPink',
-        value: 'DeepPink' 
+        label: "DarkRed",
+        value: "Darkred",
     },
     {
-        label: 'Gold',
-        value: 'Gold'
+        label: "DeepPink",
+        value: "DeepPink",
     },
     {
-        label: 'Green',
-        value: 'Green'
+        label: "Gold",
+        value: "Gold",
     },
     {
-        label: 'Maroon',
-        value: 'Maroon'
+        label: "Green",
+        value: "Green",
     },
     {
-        label: 'Olive',
-        value: 'Olive'
+        label: "Lime",
+        value: "Lime",
     },
     {
-        label: 'OrangeRed',
-        value: 'OrangeRed'
+        label: "Maroon",
+        value: "Maroon",
     },
     {
-        label: 'Orchid',
-        value: 'Orchid'
+        label: "Olive",
+        value: "Olive",
     },
     {
-        label: 'Pink',
-        value: 'Pink'
+        label: "OrangeRed",
+        value: "OrangeRed",
     },
     {
-        label: 'Purple',
-        value: 'Purple'
+        label: "Orchid",
+        value: "Orchid",
     },
     {
-        label: 'Red',
-        value: 'Red'
+        label: "Pink",
+        value: "Pink",
     },
     {
-        label: 'Yellow',
-        value: 'Yellow'
+        label: "Purple",
+        value: "Purple",
     },
-]
+    {
+        label: "Red",
+        value: "Red",
+    },
+    {
+        label: "Yellow",
+        value: "Yellow",
+    },
+];
