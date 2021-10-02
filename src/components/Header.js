@@ -16,6 +16,9 @@ const Header = () => {
             <Link href="/translate" className="item">
                 Translator
             </Link>
+            <Link href="/textutils" className="item">
+                TextUtils
+            </Link>
         </div>
     );
 };

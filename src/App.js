@@ -5,6 +5,7 @@ import Dropdown from './components/Dropdown';
 import Translate from './components/Translate';
 import Route from './components/Route';
 import Header from './components/Header';
+import TextUtils from './components/TextUtils';
 
 const items = [
     {
@@ -106,6 +107,9 @@ export default ()=> {
             </Route>
             <Route path="/translate">
                 <Translate/>
+            </Route>
+            <Route path="/textutils">
+                <TextUtils />
             </Route>
         </div>
     );
