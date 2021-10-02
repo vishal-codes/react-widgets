@@ -28,8 +28,12 @@ export const translateOptions = [
         value: 'bg'
     },
     {
-        label: 'Czech',
-        value: 'cs',
+        label:'Czech',
+        value:'cs'
+    },
+    {
+        label:'Danish',
+        value:'	da'
     },
     {
         label: 'Dutch',
@@ -38,6 +42,10 @@ export const translateOptions = [
     {
         label: 'English',
         value: 'en'
+    },
+    {
+        label: 'Finnish',
+        value: 'fi'
     },
     {
         label: 'French',

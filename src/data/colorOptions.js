@@ -36,8 +36,8 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
-	      label: 'DarkBlue',
-	      value: 'DarkBlue'
+        label: 'DarkBlue',
+        value: 'DarkBlue'
     },
     {
         label: 'DarkRed',
@@ -90,5 +90,13 @@ export const colorOptions = [
     {
         label: 'Yellow',
         value: 'Yellow'
+    },
+    {
+        label: 'DimGray',
+        value: 'DimGray'
+    },
+    {
+        label: 'Fuchsia',
+        value: 'Fuchsia'
     },
 ]
