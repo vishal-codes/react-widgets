@@ -1,5 +1,5 @@
 export const translateOptions = [
-    { 
+     { 
         label: 'Afrikaans',
         value: 'af'
     },

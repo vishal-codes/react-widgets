@@ -36,14 +36,15 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
-	    label: 'DarkBlue',
-	    value: 'DarkBlue'
+	      label: 'DarkBlue',
+	      value: 'DarkBlue'
     },
     {
         label: 'DarkRed',
         value: 'Darkred'
     },
-    {   label: 'DeepPink',
+    {   
+        label: 'DeepPink',
         value: 'DeepPink' 
     },
     {
