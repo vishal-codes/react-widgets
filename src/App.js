@@ -98,6 +98,14 @@ const options = [
         value: 'Pink'
     },
     {
+        label: 'Purple',
+        value: 'Purple'
+    },
+    {
+        label: 'Red',
+        value: 'Red'
+    },
+    {
         label: 'Yellow',
         value: 'Yellow'
     },
