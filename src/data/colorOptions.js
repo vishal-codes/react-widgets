@@ -1,5 +1,5 @@
 export const colorOptions = [
-    {   
+    {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -36,16 +36,16 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
-	      label: 'DarkBlue',
-	      value: 'DarkBlue'
+        label: 'DarkBlue',
+        value: 'DarkBlue'
     },
     {
         label: 'DarkRed',
         value: 'Darkred'
     },
-    {   
+    {
         label: 'DeepPink',
-        value: 'DeepPink' 
+        value: 'DeepPink'
     },
     {
         label: 'Gold',
@@ -86,5 +86,9 @@ export const colorOptions = [
     {
         label: 'Yellow',
         value: 'Yellow'
+    },
+    {
+        label: 'DimGray',
+        value: 'DimGray'
     },
 ]
