@@ -59,15 +59,15 @@ const options = [
         value: 'Coral'
     },
     {
-	      label:'DarkBlue',
-	      value:'DarkBlue'
+	    label: 'DarkBlue',
+	    value: 'DarkBlue'
     },
     {
         label: 'DarkRed',
         value: 'Darkred'
     },
-    {   label: "DeepPink",
-        value: "DeepPink" 
+    {   label: 'DeepPink',
+        value: 'DeepPink' 
     },
     {
         label: 'Maroon',
