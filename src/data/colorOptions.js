@@ -91,4 +91,8 @@ export const colorOptions = [
         label: 'DimGray',
         value: 'DimGray'
     },
+    {
+        label: 'Fuchsia',
+        value: 'Fuchsia'
+    },
 ]
