@@ -72,6 +72,10 @@ const options = [
         value: 'ml'
     },
     {
+        label : 'Marathi',
+        value : 'mr'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
     },
@@ -119,10 +123,6 @@ const options = [
         label: 'Zulu',
         value: 'zu'
     },
-    {
-        label : 'Marathi',
-        value : 'mr'
-    }
 ]
 
 
