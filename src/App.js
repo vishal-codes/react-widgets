@@ -70,12 +70,12 @@ const options = [
         value: 'Pink'
     },
     {
-        label:'Gold',
-        value:'Gold'
+        label: 'Gold',
+        value: 'Gold'
     },
     {
-        label:'Green',
-        value:'Green'
+        label: 'Green',
+        value: 'Green'
     },
     {
         label: 'Yellow',
