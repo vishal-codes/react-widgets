@@ -27,10 +27,6 @@ const options = [
         value: 'AntiqueWhite'
     },
     {
-        label: 'AntiqueWhite',
-        value: 'AntiqueWhite'
-    },
-    {
         label: 'Aqua',
         value: 'Aqua'
     },
@@ -43,19 +39,35 @@ const options = [
         value: 'Blue'
     },
     {
-        label: 'CadetBlue',
-        value: 'CadetBlue',
+        label: 'BlueViolet',
+        value: 'BlueViolet'
     },
     {
-        label: 'DeepPink',
-        value: 'DeepPink'
+        label: 'Brown',
+        value: 'Brown'
+    },
+    {
+        label: 'CadetBlue',
+        value: 'CadetBlue'
+    },
+    {
+        label: 'Charteuse',
+        value: 'Charteuse'
+    },
+    {
+        label: 'Coral',
+        value: 'Coral'
+    },
+    {
+	      label: 'DarkBlue',
+	      value: 'DarkBlue'
     },
     {
         label: 'DarkRed',
         value: 'Darkred'
     },
-    {   label: "DeepPink",
-        value: "DeepPink" 
+    {   label: 'DeepPink',
+        value: 'DeepPink' 
     },
     {
         label: 'Maroon',
