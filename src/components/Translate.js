@@ -12,12 +12,16 @@ const options = [
         value:'sq'
     },
     {
-       label: 'Arabic',
-       value: 'ar',
+        label: 'Arabic',
+        value: 'ar',
     },
     {
-	      label: 'Bengali',
-	      value: 'bn'
+      	label: 'Bengali',
+      	value: 'bn'
+    },
+    {
+	      label: 'Bulgarian',
+        value: 'bg'
     },
     {
         label: 'Dutch',
@@ -32,8 +36,20 @@ const options = [
         value: 'fr'
     },
     {
+        label: 'Frisian',
+        value: 'fy'
+    },
+    {
+        label: 'Galician',
+        value: 'gl'
+    },
+    {
         label: 'German',
         value: 'de'
+    },
+    {
+        label: 'Gujarati',
+        value: 'gu'
     },
     {
         label: 'Hindi',
@@ -44,8 +60,16 @@ const options = [
         value: 'it'
     },
     {
+        label: 'Japanese',
+        value: 'ja'
+    },
+    {
         label: "Korean",
         value: "ko",
+    },
+    {
+        label: 'Malayalam',
+        value: 'ml'
     },
     {
         label: 'Punjabi',
@@ -56,12 +80,48 @@ const options = [
         value: 'sp'
     },
     {
+        label: 'Tamil',
+        value: 'ta'
+    },
+    {
         label: 'Telugu',
         value: 'te'
     },
     {
         label: 'Urdu',
         value: 'ur'
+    },
+    {
+        label: 'Uyghur',
+        value: 'ug'
+    },
+    {
+        label: 'Uzbek',
+        value: 'uz'
+    },
+    {
+        label: 'Vietnamese',
+        value: 'vi'
+    },
+    {
+        label: 'Welsh',
+        value: 'cy'
+    },
+    {
+        label: 'Xhosa',
+        value: 'xh'
+    },
+    {
+        label: 'Yiddish',
+        value: 'yi'
+    },
+    {
+        label: 'Yoruba',
+        value: 'yo'
+    },
+    {
+        label: 'Zulu',
+        value: 'zu'
     },
 ]
 

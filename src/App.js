@@ -22,7 +22,7 @@ const items = [
 ];
 
 const options = [
-    {
+    {   
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -49,6 +49,9 @@ const options = [
     {
         label: 'DarkRed',
         value: 'Darkred'
+    },
+    {   label: "DeepPink",
+        value: "DeepPink" 
     },
     {
         label: 'Maroon',
