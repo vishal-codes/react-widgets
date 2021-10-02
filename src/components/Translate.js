@@ -12,12 +12,16 @@ const options = [
         value:'sq'
     },
     {
-       label: 'Arabic',
-       value: 'ar',
+        label: 'Arabic',
+        value: 'ar',
     },
     {
-	      label: 'Bengali',
-	      value: 'bn'
+      	label: 'Bengali',
+      	value: 'bn'
+    },
+    {
+	      label: 'Bulgarian',
+        value: 'bg'
     },
     {
         label: 'Dutch',
@@ -70,6 +74,10 @@ const options = [
     {
         label: 'Punjabi',
         value: 'pa'
+    },
+    {
+        label: 'Spanish',
+        value: 'es'
     },
     {
         label: 'Tamil',
