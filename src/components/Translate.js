@@ -76,6 +76,14 @@ const options = [
         value: 'ml'
     },
     {
+        label: 'Nepali',
+        value: 'ne'
+    },
+    {
+        label: 'Norwegian',
+        value: 'no'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
     },
