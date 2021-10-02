@@ -77,7 +77,7 @@ const options = [
     },
     {
         label: 'Spanish',
-        value: 'sp'
+        value: 'es'
     },
     {
         label: 'Tamil',
