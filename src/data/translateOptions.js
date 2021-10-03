@@ -108,6 +108,10 @@ export const translateOptions = [
         value: 'ru'
     },
     {
+        label: 'Sinhala',
+        value: 'si'
+    },
+    {
         label: 'Spanish',
         value: 'es'
     },
