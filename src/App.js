@@ -66,8 +66,8 @@ const options = [
         value: 'Purple'
     },
     {
-        label: 'Voilet',
-        value: 'Voilet'
+        label: 'Violet',
+        value: 'Violet'
     },
     {
         label: 'Yellow',
