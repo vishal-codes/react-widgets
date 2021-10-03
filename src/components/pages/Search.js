@@ -1,36 +1,27 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
+import { debounce } from '../../commons/utils';
 import axios from 'axios';
 
 const Search = () => {
 
-    const [term, setTerm] = useState('');
     const [results, setResults] = useState([]);
 
-    useEffect(() => {
-        const search = async () => {
-            const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
-                params: {
-                    action: 'query',
-                    list: 'search',
-                    origin: '*',
-                    format: 'json',
-                    srsearch: term
-                },
-            });
-            setResults(data.query.search);
-        };
+    const search = async (term) => {
+        const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
+            params: {
+                action: 'query',
+                list: 'search',
+                origin: '*',
+                format: 'json',
+                srsearch: term
+            },
+        });
+        setResults(data.query.search);
+    };
 
-        const timeoutId = setTimeout(() => {
-            if (term) {
-              search();
-            }
-        },500);
-
-        return () => {
-            clearTimeout(timeoutId);
-        }
-
-    }, [term]);
+    const onSearchInputChange = debounce(function (event) {
+        search(event.target.value)
+      }, 1000);
 
     const renderedResults = results.map((result) => {
         return (
@@ -56,8 +47,7 @@ const Search = () => {
                 <div className="field">
                     <label>Enter Search Term</label>
                     <input
-                        value={term}
-                        onChange={e => setTerm(e.target.value)}
+                        onChange={(event) => onSearchInputChange(event)}
                         className="input"
                     />
                 </div>
