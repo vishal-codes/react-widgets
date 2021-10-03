@@ -1,5 +1,5 @@
 export const colorOptions = [
-  {
+    {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -40,6 +40,10 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
+        label: 'CornflowerBlue',
+        value: 'CornflowerBlue'
+    },
+    {
         label: 'Crimson',
         value: 'Crimson'
     },
@@ -48,8 +52,8 @@ export const colorOptions = [
         value: 'Cyan'
     },
     {
-        label: 'DarkBlue',
-        value: 'DarkBlue'
+	      label: 'DarkBlue',
+	      value: 'DarkBlue'
     },
     {
         label: 'DarkCyan',
