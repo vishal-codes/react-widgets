@@ -93,7 +93,7 @@ export const colorOptions = [
     },
     {
         label: 'Violet',
-        value: 'Voilet'
+        value: 'Violet'
     },
     {
         label: 'Yellow',
