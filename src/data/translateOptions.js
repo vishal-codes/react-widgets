@@ -8,8 +8,8 @@ export const translateOptions = [
         value: 'sq'
     },
     {
-        label:'Amharic',
-        value:'am'
+        label: 'Amharic',
+        value: 'am'
     },
     {
         label: 'Arabic',
@@ -21,15 +21,23 @@ export const translateOptions = [
     },
     {
         label: 'Bengali',
-      	value: 'bn'
-    }, 
+	    value: 'bn'
+    },
     {
 	    label: 'Bulgarian',
         value: 'bg'
     },
     {
+	    label: 'Catalan',
+        value: 'ca'
+    },
+    {
         label: 'Czech',
-        value: 'cs',
+        value: 'cs'
+    },
+    {
+        label: 'Danish',
+        value: 'da'
     },
     {
         label: 'Dutch',
@@ -38,6 +46,10 @@ export const translateOptions = [
     {
         label: 'English',
         value: 'en'
+    },
+    {
+        label: 'Finnish',
+        value: 'fi'
     },
     {
         label: 'French',
@@ -98,6 +110,10 @@ export const translateOptions = [
     {
         label: 'Russian',
         value: 'ru'
+    },
+    {
+        label: 'Sinhala',
+        value: 'si'
     },
     {
         label: 'Spanish',

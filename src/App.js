@@ -3,6 +3,7 @@ import Accordion from './components/pages/Accordion';
 import Search from './components/pages/Search';
 import Dropdown from './components/pages/Dropdown';
 import Translate from './components/pages/Translate';
+import TextUtils from './components/pages/TextUtils'
 
 import Header from './components/base/Header';
 
@@ -23,8 +24,8 @@ export default ()=> {
                 <Search/>
             </Routes>
             <Routes path="/dropdown">
-                <Dropdown 
-                   selected={selected} 
+                <Dropdown
+                   selected={selected}
                    options={colorOptions}
                    onSelectedChange={setSelected}
                    label="Select a color"
@@ -33,6 +34,9 @@ export default ()=> {
             </Routes>
             <Routes path="/translate">
                 <Translate/>
+            </Routes>
+            <Routes path="/textutils">
+                <TextUtils />
             </Routes>
         </div>
     );
