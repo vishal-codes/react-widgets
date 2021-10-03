@@ -16,13 +16,17 @@ export const translateOptions = [
         value: 'ar'
     },
     {
+        label: 'Amharic',
+        value: 'am',
+    },
+    {
         label: 'Armenian',
         value: 'hy',
     },
     {
         label: 'Bengali',
-      	value: 'bn'
-    }, 
+	    value: 'bn'
+    },
     {
 	    label: 'Bulgarian',
         value: 'bg'
