@@ -76,6 +76,10 @@ export const colorOptions = [
         value: 'Darkred'
     },
     {
+        label: 'DarkViolet',
+        value: 'DarkViolet'
+    },
+    {
         label: 'DeepPink',
         value: 'DeepPink'
     },
