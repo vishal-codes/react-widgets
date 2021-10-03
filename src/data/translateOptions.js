@@ -124,8 +124,16 @@ export const translateOptions = [
         value: 'si'
     },
     {
+        label: 'Somalia',
+        value: 'so'
+    },
+    {
         label: 'Spanish',
         value: 'es'
+    },
+    {
+        label: 'Swahili',
+        value: 'sw'
     },
     {
         label: 'Tamil',
