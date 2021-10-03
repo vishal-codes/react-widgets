@@ -24,8 +24,8 @@ export default ()=> {
                 <Search/>
             </Routes>
             <Routes path="/dropdown">
-                <Dropdown 
-                   selected={selected} 
+                <Dropdown
+                   selected={selected}
                    options={colorOptions}
                    onSelectedChange={setSelected}
                    label="Select a color"

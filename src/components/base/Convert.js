@@ -5,6 +5,7 @@ const Convert = ( {language, text} ) => {
 
     const [translated, setTranslated] = useState('');
     const [debouncedText, setDebouncedText] = useState(text);
+    const [isTranslated, setIsTranslated] = useState(false);
 
     useEffect(() => {
         const timerId = setTimeout(() => {
@@ -18,6 +19,7 @@ const Convert = ( {language, text} ) => {
 
     useEffect(() => {
         const doTranslation = async () => {
+            setIsTranslated(true);
             const {data} = await axios.post('https://translation.googleapis.com/language/translate/v2',
             {},
             {
@@ -27,14 +29,23 @@ const Convert = ( {language, text} ) => {
                     key: 'AIzaSyDElOAEazlhJckWxrhwWt37KsJxXWBVlDA'//this api key is restricted :)
                 }
             });
+            setIsTranslated(false);
             setTranslated(data.data.translations[0].translatedText);
         };
-        doTranslation();
+        if (debouncedText != "") {
+            doTranslation();
+          } else {
+            setTranslated("");
+        }
     }, [language,debouncedText]);
 
     return (
         <div>
-            <h2 className="ui header">{translated}</h2>
+            {isTranslated ? (
+                <span>Translating...</span>
+            ) : (
+                <h2 className="ui header">{translated}</h2>
+            )}
         </div>    
    );
 

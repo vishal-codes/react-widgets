@@ -16,16 +16,24 @@ export const translateOptions = [
         value: 'ar'
     },
     {
+        label: 'Amharic',
+        value: 'am',
+    },
+    {
         label: 'Armenian',
         value: 'hy',
     },
     {
         label: 'Bengali',
-      	value: 'bn'
-    }, 
+	    value: 'bn'
+    },
     {
-	    label: 'Bulgarian',
+	label: 'Bulgarian',
         value: 'bg'
+    },
+    {
+	label: 'Catalan',
+        value: 'ca'
     },
     {
         label:'Czech',
@@ -106,6 +114,10 @@ export const translateOptions = [
     {
         label: 'Russian',
         value: 'ru'
+    },
+    {
+        label: 'Sinhala',
+        value: 'si'
     },
     {
         label: 'Spanish',

@@ -28,6 +28,10 @@ export const colorOptions = [
         value: 'CadetBlue'
     },
     {
+        label: 'Chocolate',
+        value: 'Chocolate'
+    },
+    {
         label: 'Charteuse',
         value: 'Charteuse'
     },
@@ -36,12 +40,44 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
+        label: 'Cornsilk',
+        value: 'Cornsilk'
+    },
+    {
+        label: 'Crimson',
+        value: 'Crimson'
+    },
+    {
+        label: 'Cyan',
+        value: 'Cyan'
+    },
+    {
         label: 'DarkBlue',
         value: 'DarkBlue'
     },
     {
+        label: 'DarkCyan',
+        value: 'DarkCyan'
+    },
+    {
+        label: 'DarkGoldenRed',
+        value: 'DarkGoldenRed'
+    },
+    {
+        label: 'DarkGray',
+        value: 'DarkGray'
+    },
+    {
+        label: 'DarkGreen',
+        value: 'DarkGreen'
+    },
+    {
         label: 'DarkRed',
         value: 'Darkred'
+    },
+    {
+        label: 'DarkViolet',
+        value: 'DarkViolet'
     },
     {
         label: 'DeepPink',
@@ -64,8 +100,16 @@ export const colorOptions = [
         value: 'Green'
     },
     {
+        label: 'LightSalmon',
+        value: 'LightSalmon'
+    },
+    {
         label: 'Maroon',
         value: 'Maroon'
+    },
+    {
+        label: 'LightSeaGreen',
+        value: 'LightSeaGreen'
     },
     {
         label: 'Olive',
@@ -99,6 +143,5 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-    
-   
+
 ]
