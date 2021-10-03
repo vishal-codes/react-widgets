@@ -28,12 +28,12 @@ export const colorOptions = [
         value: 'CadetBlue'
     },
     {
-        label: 'Chocolate',
-        value: 'Chocolate'
-    },
-    {
         label: 'Chartreuse',
         value: 'Chartreuse'
+    },
+    {
+        label: 'Chocolate',
+        value: 'Chocolate'
     },
     {
         label: 'Coral',
@@ -96,16 +96,16 @@ export const colorOptions = [
         value: 'LightSalmon'
     },
     {
-        label: 'Maroon',
-        value: 'Maroon'
-    },
-    {
         label: 'LightSeaGreen',
         value: 'LightSeaGreen'
     },
     {
         label: 'Lime',
         value: 'Lime'
+    },
+    {
+        label: 'Maroon',
+        value: 'Maroon'
     },
     {
         label: 'Olive',
