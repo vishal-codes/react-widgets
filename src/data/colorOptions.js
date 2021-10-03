@@ -1,5 +1,5 @@
 export const colorOptions = [
-  {
+    {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -52,12 +52,20 @@ export const colorOptions = [
         value: 'Cyan'
     },
     {
-        label: 'DarkBlue',
-        value: 'DarkBlue'
+	      label: 'DarkBlue',
+	      value: 'DarkBlue'
     },
     {
         label: 'DarkCyan',
         value: 'DarkCyan'
+    },
+    {
+        label: 'DarkOliveGreen',
+        value: 'DarkOliveGreen'
+    },
+    {
+        label: 'DarkOrange',
+        value: 'DarkOrange'
     },
     {
         label: 'DarkGray',
@@ -96,6 +104,14 @@ export const colorOptions = [
         value: 'Green'
     },
     {
+        label: 'HotPink',
+        value: 'HotPink'
+    },
+    {
+        label: 'Lavender',
+        value: 'Lavender'
+    },
+    {
         label: 'LightSalmon',
         value: 'LightSalmon'
     },
@@ -126,6 +142,10 @@ export const colorOptions = [
     {
         label: 'Pink',
         value: 'Pink'
+    },
+    {
+        label: 'Peru',
+        value: 'Peru'
     },
     {
         label: 'Purple',
