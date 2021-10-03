@@ -40,6 +40,10 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
+        label: 'CornflowerBlue',
+        value: 'CornflowerBlue'
+    },
+    {
         label: 'Crimson',
         value: 'Crimson'
     },
