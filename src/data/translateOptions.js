@@ -28,10 +28,6 @@ export const translateOptions = [
         value: 'bg'
     },
     {
-	label: 'Catalan',
-        value: 'ca'	
-    },
-    {
         label:'Czech',
         value:'cs'
     },
