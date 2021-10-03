@@ -56,6 +56,14 @@ export const colorOptions = [
         value: 'DarkCyan'
     },
     {
+        label: 'DarkOliveGreen',
+        value: 'DarkOliveGreen'
+    },
+    {
+        label: 'DarkOrange',
+        value: 'DarkOrange'
+    },
+    {
         label: 'DarkGray',
         value: 'DarkGray'
     },
