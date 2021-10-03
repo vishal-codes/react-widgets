@@ -24,7 +24,7 @@ export const translateOptions = [
       	value: 'bn'
     }, 
     {
-	    label: 'Bulgarian',
+	label: 'Bulgarian',
         value: 'bg'
     },
     {
