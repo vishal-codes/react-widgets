@@ -8,16 +8,12 @@ export const translateOptions = [
         value: 'sq'
     },
     {
-        label:'Amharic',
-        value:'am'
+        label: 'Amharic',
+        value: 'am'
     },
     {
         label: 'Arabic',
         value: 'ar'
-    },
-    {
-        label: 'Amharic',
-        value: 'am',
     },
     {
         label: 'Armenian',
@@ -28,20 +24,20 @@ export const translateOptions = [
 	    value: 'bn'
     },
     {
-	label: 'Bulgarian',
+	    label: 'Bulgarian',
         value: 'bg'
     },
     {
-	label: 'Catalan',
+	    label: 'Catalan',
         value: 'ca'
     },
     {
-        label:'Czech',
-        value:'cs'
+        label: 'Czech',
+        value: 'cs'
     },
     {
-        label:'Danish',
-        value:'	da'
+        label: 'Danish',
+        value: 'da'
     },
     {
         label: 'Dutch',

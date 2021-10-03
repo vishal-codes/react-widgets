@@ -56,10 +56,6 @@ export const colorOptions = [
         value: 'DarkCyan'
     },
     {
-        label: 'DarkGoldenRed',
-        value: 'DarkGoldenRed'
-    },
-    {
         label: 'DarkGray',
         value: 'DarkGray'
     },
