@@ -1,5 +1,5 @@
 export const colorOptions = [
-    {
+  {
         label: 'AntiqueWhite',
         value: 'AntiqueWhite'
     },
@@ -32,16 +32,12 @@ export const colorOptions = [
         value: 'Chocolate'
     },
     {
-        label: 'Charteuse',
-        value: 'Charteuse'
+        label: 'Chartreuse',
+        value: 'Chartreuse'
     },
     {
         label: 'Coral',
         value: 'Coral'
-    },
-    {
-        label: 'Cornsilk',
-        value: 'Cornsilk'
     },
     {
         label: 'Crimson',
@@ -112,6 +108,10 @@ export const colorOptions = [
         value: 'LightSeaGreen'
     },
     {
+        label: 'Lime',
+        value: 'Lime'
+    },
+    {
         label: 'Olive',
         value: 'Olive'
     },
@@ -144,4 +144,4 @@ export const colorOptions = [
         value: 'Yellow'
     },
 
-]
+];
