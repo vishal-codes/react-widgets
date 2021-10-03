@@ -28,6 +28,10 @@ export const colorOptions = [
         value: 'CadetBlue'
     },
     {
+        label: 'Chocolate',
+        value: 'Chocolate'
+    },
+    {
         label: 'Charteuse',
         value: 'Charteuse'
     },
@@ -36,8 +40,36 @@ export const colorOptions = [
         value: 'Coral'
     },
     {
+        label: 'Cornsilk',
+        value: 'Cornsilk'
+    },
+    {
+        label: 'Crimson',
+        value: 'Crimson'
+    },
+    {
+        label: 'Cyan',
+        value: 'Cyan'
+    },
+    {
         label: 'DarkBlue',
         value: 'DarkBlue'
+    },
+    {
+        label: 'DarkCyan',
+        value: 'DarkCyan'
+    },
+    {
+        label: 'DarkGoldenRed',
+        value: 'DarkGoldenRed'
+    },
+    {
+        label: 'DarkGray',
+        value: 'DarkGray'
+    },
+    {
+        label: 'DarkGreen',
+        value: 'DarkGreen'
     },
     {
         label: 'DarkRed',
