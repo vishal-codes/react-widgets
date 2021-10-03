@@ -84,6 +84,14 @@ export const colorOptions = [
         value: 'DeepPink'
     },
     {
+        label: 'DimGray',
+        value: 'DimGray'
+    },
+    {
+        label: 'Fuchsia',
+        value: 'Fuchsia'
+    },
+    {
         label: 'Gold',
         value: 'Gold'
     },
@@ -128,15 +136,12 @@ export const colorOptions = [
         value: 'Red'
     },
     {
+        label: 'Violet',
+        value: 'Violet'
+    },
+    {
         label: 'Yellow',
         value: 'Yellow'
     },
-    {
-        label: 'DimGray',
-        value: 'DimGray'
-    },
-    {
-        label: 'Fuchsia',
-        value: 'Fuchsia'
-    },
+
 ]
