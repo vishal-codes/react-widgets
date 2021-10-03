@@ -139,5 +139,29 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-
+    {
+        label: 'Black',
+        value: 'Black'
+    },
+    {
+        label: 'Electric green',
+        value: '#00FF00'
+    },
+    {
+        label: 'Dodger blue',
+        value: '#1E90FF'
+    },
+    {
+        label: 'Dutch white',
+        value: '#EFDFBB'
+    },
+    {
+        label: 'Electric lime',
+        value: '#CCFF00'
+    },
+    {
+        label: 'Fallow',
+        value: '#C19A6B'
+    },
+    
 ];
