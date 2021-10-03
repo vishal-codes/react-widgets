@@ -88,6 +88,14 @@ export const translateOptions = [
         value: 'ko'
     },
     {
+        label: 'Kurdish',
+        vallue: 'ku'
+    },
+    {
+        label: 'Kyrgyz',
+        value: 'ky'
+    }, 
+    {
         label: 'Luxembourgish',
         value: 'lb'
     },
