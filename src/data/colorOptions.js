@@ -108,6 +108,10 @@ export const colorOptions = [
         value: 'HotPink'
     },
     {
+        label: 'Lavender',
+        value: 'Lavender'
+    },
+    {
         label: 'LightSalmon',
         value: 'LightSalmon'
     },
