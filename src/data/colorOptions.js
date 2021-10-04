@@ -164,6 +164,10 @@ export const colorOptions = [
         value: 'Red'
     },
     {
+        label: 'Tomato',
+        value: 'Tomato'
+    },
+    {
         label: 'Violet',
         value: 'Violet'
     },
@@ -171,5 +175,4 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-
 ];
