@@ -80,6 +80,10 @@ export const colorOptions = [
         value: 'DarkKhaki'
     },
     {
+        label: 'DarkMagenta',
+        value: 'DarkMagenta'
+    },
+    {
         label: 'DarkRed',
         value: 'Darkred'
     },
