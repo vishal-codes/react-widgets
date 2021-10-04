@@ -76,6 +76,10 @@ export const colorOptions = [
         value: 'DarkGreen'
     },
     {
+        label: 'DarkKhaki',
+        value: 'DarkKhaki'
+    },
+    {
         label: 'DarkRed',
         value: 'Darkred'
     },
