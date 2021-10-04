@@ -75,6 +75,15 @@ export const translateOptions = [
         label: 'Hindi',
         value: 'hi'
     },
+    
+    {
+        label: 'Irish',
+        value: 'ir'
+    },
+    {
+        label: 'Indonesia',
+        value: 'id'
+    },
     {
         label: 'Italian',
         value: 'it'
@@ -124,6 +133,10 @@ export const translateOptions = [
         value: 'si'
     },
     {
+        label: 'Slovak',
+        value: 'sk'
+    },
+    {
         label: 'Somalia',
         value: 'so'
     },
@@ -134,6 +147,10 @@ export const translateOptions = [
     {
         label: 'Swahili',
         value: 'sw'
+    },
+    {
+        label: 'Swedish',
+        value: 'sv'
     },
     {
         label: 'Tamil',
