@@ -196,4 +196,8 @@ export const translateOptions = [
         label: 'Zulu',
         value: 'zu'
     },
+    {
+        label: 'Swedish',
+        value: 'sv'
+    },
 ]
