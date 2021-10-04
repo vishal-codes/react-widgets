@@ -153,8 +153,16 @@ export const translateOptions = [
         value: 'sv'
     },
     {
+        label: 'Tajik',
+        value: 'tg'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
+    },
+    {
+        label: 'Tatar',
+        value: 'tt'
     },
     {
         label: 'Telugu',
@@ -196,12 +204,5 @@ export const translateOptions = [
         label: 'Zulu',
         value: 'zu'
     },
-    {
-        label: 'Swedish',
-        value: 'sv'
-    },
-    {
-        label: 'Tajik',
-        value: 'tg'
-    },
+
 ]
