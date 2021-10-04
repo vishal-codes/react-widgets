@@ -124,6 +124,10 @@ export const translateOptions = [
         value: 'si'
     },
     {
+        label: 'Slovak',
+        value: 'sk'
+    },
+    {
         label: 'Somalia',
         value: 'so'
     },
