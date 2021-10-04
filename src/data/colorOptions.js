@@ -171,5 +171,12 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-
+    {
+        label: 'Khaki',
+        value: 'Khaki'
+    },
+    {
+        label: 'DarkKhaki',
+        value: 'DarkKhaki'
+    },
 ];
