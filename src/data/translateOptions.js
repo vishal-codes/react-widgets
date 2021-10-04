@@ -200,4 +200,8 @@ export const translateOptions = [
         label: 'Swedish',
         value: 'sv'
     },
+    {
+        label: 'Tajik',
+        value: 'tg'
+    },
 ]
