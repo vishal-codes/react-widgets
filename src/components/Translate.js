@@ -16,6 +16,14 @@ const options = [
        value: 'ar',
     },
     {
+       label:'Azerbaijani',
+       value:'az',
+    },
+    {  
+	label:'Basque',
+         value:'eu',
+    },
+    {
 	      label: 'Bengali',
 	      value: 'bn'
     },
