@@ -72,6 +72,10 @@ export const translateOptions = [
         value: 'hi'
     },
     {
+        label: 'Irish',
+        value: 'ir'
+    },
+    {
         label: 'Italian',
         value: 'it'
     },
