@@ -136,6 +136,10 @@ export const translateOptions = [
         value: 'sw'
     },
     {
+        label: 'Swedish',
+        value: 'sv'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
     },
