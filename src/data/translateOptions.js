@@ -1,5 +1,5 @@
 export const translateOptions = [
-     { 
+    {
         label: 'Afrikaans',
         value: 'af'
     },
@@ -21,14 +21,14 @@ export const translateOptions = [
     },
     {
         label: 'Bengali',
-	    value: 'bn'
+        value: 'bn'
     },
     {
-	    label: 'Bulgarian',
+        label: 'Bulgarian',
         value: 'bg'
     },
     {
-	    label: 'Catalan',
+        label: 'Catalan',
         value: 'ca'
     },
     {
@@ -41,7 +41,7 @@ export const translateOptions = [
     },
     {
         label: 'Dutch',
-       	value: 'nl'
+        value: 'nl'
     },
     {
         label: 'English',
@@ -76,6 +76,10 @@ export const translateOptions = [
         value: 'hi'
     },
     {
+        label: 'Indonesian',
+        value: 'id'
+    },
+    {
         label: 'Italian',
         value: 'it'
     },
@@ -94,7 +98,7 @@ export const translateOptions = [
     {
         label: 'Kyrgyz',
         value: 'ky'
-    }, 
+    },
     {
         label: 'Luxembourgish',
         value: 'lb'

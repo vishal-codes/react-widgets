@@ -1,33 +1,38 @@
-body{
-    background-color: rgb(0, 0, 0);
-    color: white;
-    margin: 15px;
+body {
+  background-color: rgb(0, 0, 0);
+  color: white;
+  margin: 15px;
 }
 
 .ui.menu:not(.vertical) .item {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    padding: 13px 12px 13px 12px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 13px 12px 13px 12px;
 }
 
-.ui.header{
-    color: white;
+.ui.header {
+  color: white;
 }
 
 /* Search */
 .ui.form .field > label {
-    font-size: 19px;
-    color: white;
-} 
-.ui.list .list > .item .header, .ui.list > .item .header{
-    color: white;
+  font-size: 19px;
+  color: white;
+}
+.ui.list .list > .item .header,
+.ui.list > .item .header {
+  color: white;
 }
 
 /* Accordion */
-p{
-    color: black;
+p {
+  color: black;
+}
+
+.container-error-search {
+  margin-top: 10px;
 }
