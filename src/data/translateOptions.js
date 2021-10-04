@@ -124,6 +124,10 @@ export const translateOptions = [
         value: 'si'
     },
     {
+        label: 'Slovenian',
+        value: 'sl'
+    },
+    {
         label: 'Somalia',
         value: 'so'
     },
@@ -136,12 +140,20 @@ export const translateOptions = [
         value: 'sw'
     },
     {
+        label: 'Swedish',
+        value: 'sv'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
     },
     {
         label: 'Telugu',
         value: 'te'
+    },
+    {
+        label:'Turkish',
+        value: 'tr'
     },
     {
         label: 'Urdu',
