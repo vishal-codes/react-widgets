@@ -20,6 +20,10 @@ export const translateOptions = [
         value: 'hy',
     },
     {
+        label: 'Belarusian',
+        value: 'be',
+    },
+    {
         label: 'Bengali',
 	    value: 'bn'
     },
@@ -46,6 +50,10 @@ export const translateOptions = [
     {
         label: 'English',
         value: 'en'
+    },
+    {
+        label: 'Esperanto',
+        value: 'eo'
     },
     {
         label: 'Finnish',
