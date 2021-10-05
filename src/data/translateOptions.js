@@ -36,7 +36,7 @@ export const translateOptions = [
         value: 'ca'
     },
     {
-        labe: 'Croatian',
+        label: 'Croatian',
         value: 'hr'
     },
     {
