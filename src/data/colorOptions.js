@@ -80,10 +80,6 @@ export const colorOptions = [
         value: 'Darkred'
     },
     {
-        label: 'DarkTurquoise',
-        value: 'DarkTurquoise'
-    },
-    {
         label: 'DarkSalmon',
         value: 'DarkSalmon'
     },
@@ -94,10 +90,6 @@ export const colorOptions = [
     {
         label: 'DeepPink',
         value: 'DeepPink'
-    },
-    {
-        label: 'DeepSkyBlue',
-        value: 'DeepSkyBlue'
     },
     {
         label: 'DimGray',
