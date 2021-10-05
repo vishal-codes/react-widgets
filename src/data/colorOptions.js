@@ -116,6 +116,14 @@ export const colorOptions = [
         value: 'Lavender'
     },
     {
+        label: 'LightGreen',
+        value: 'LightGreen'
+    },
+    {
+        label: 'LightPink',
+        value: 'LightPink'
+    },
+    {
         label: 'LightSalmon',
         value: 'LightSalmon'
     },

@@ -129,6 +129,14 @@ export const translateOptions = [
         value: 'ru'
     },
     {
+        label: 'Serbian',
+        value: 'sr'
+    },
+    {
+        label: 'Sesotho',
+        value: 'st'
+    },
+    {
         label: 'Sinhala',
         value: 'si'
     },
