@@ -36,6 +36,10 @@ export const translateOptions = [
         value: 'ca'
     },
     {
+        labe: 'Croatian',
+        value: 'hr'
+    },
+    {
         label: 'Czech',
         value: 'cs'
     },
