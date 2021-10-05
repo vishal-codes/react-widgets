@@ -132,6 +132,15 @@ export const colorOptions = [
         value: 'Maroon'
     },
     {
+        label: 'MediumBlue',
+        value: 'MediumBlue'
+    },
+    {
+        label: 'MidnightBlue',
+        value: 'MidnightBlue'
+    },
+
+    {
         label: 'Olive',
         value: 'Olive'
     },
