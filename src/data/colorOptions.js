@@ -76,6 +76,10 @@ export const colorOptions = [
         value: 'DarkGreen'
     },
     {
+        label: 'DarkMagenta',
+        value: 'DarkMagenta'
+    },
+    {
         label: 'DarkRed',
         value: 'Darkred'
     },
@@ -110,6 +114,10 @@ export const colorOptions = [
     {
         label: 'Lavender',
         value: 'Lavender'
+    },
+    {
+        label: 'LightCoral',
+        value: 'LightCoral'
     },
     {
         label: 'LightSalmon',
