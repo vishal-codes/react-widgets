@@ -1,79 +1,80 @@
 export const translateOptions = [
+
   {
     label: 'Afrikaans',
-    value: 'af',
+    value: 'af'
   },
   {
     label: 'Albanian',
-    value: 'sq',
+    value: 'sq'
   },
   {
     label: 'Amharic',
-    value: 'am',
+    value: 'am'
   },
   {
     label: 'Arabic',
-    value: 'ar',
+    value: 'ar'
   },
   {
     label: 'Armenian',
-    value: 'hy',
+    value: 'hy'
   },
   {
     label: 'Bengali',
-    value: 'bn',
+    value: 'bn'
   },
   {
     label: 'Bulgarian',
-    value: 'bg',
+    value: 'bg'
   },
   {
     label: 'Catalan',
-    value: 'ca',
+    value: 'ca'
   },
   {
     label: 'Czech',
-    value: 'cs',
+    value: 'cs'
   },
   {
     label: 'Danish',
-    value: 'da',
+    value: 'da'
   },
   {
     label: 'Dutch',
-    value: 'nl',
+    value: 'nl'
   },
   {
     label: 'English',
-    value: 'en',
+    value: 'en'
   },
   {
     label: 'Finnish',
-    value: 'fi',
+    value: 'fi'
   },
   {
     label: 'French',
-    value: 'fr',
+    value: 'fr'
   },
   {
     label: 'Frisian',
-    value: 'fy',
+    value: 'fy'
   },
   {
     label: 'Galician',
-    value: 'gl',
+    value: 'gl'
   },
   {
     label: 'German',
-    value: 'de',
+    value: 'de'
   },
   {
     label: 'Gujarati',
-    value: 'gu',
+    value: 'gu'
   },
   {
     label: 'Hausa',
-    value: 'ha',
+    value: 'ha'
   },
   {
     label: 'Hindi',
@@ -81,118 +82,119 @@ export const translateOptions = [
   },
   {
     label: 'Igbo',
-    value: 'ig',
+    value: 'ig'
   },
   {
     label: 'Italian',
-    value: 'it',
+    value: 'it'
   },
   {
     label: 'Japanese',
-    value: 'ja',
+    value: 'ja'
   },
   {
     label: 'Khmer',
-    value: 'km',
+    value: 'km'
   },
   {
     label: 'Korean',
-    value: 'ko',
+    value: 'ko'
   },
   {
     label: 'Kurdish',
-    vallue: 'ku',
+    value: 'ku'
   },
   {
     label: 'Kyrgyz',
-    value: 'ky',
+    value: 'ky'
   },
   {
     label: 'Latvian',
-    value: 'lv',
+    value: 'lv'
   },
   {
     label: 'Luxembourgish',
-    value: 'lb',
+    value: 'lb'
   },
   {
     label: 'Malayalam',
-    value: 'ml',
+    value: 'ml'
   },
   {
     label: 'Nepali',
-    value: 'ne',
+    value: 'ne'
   },
   {
     label: 'Norwegian',
-    value: 'no',
+    value: 'no'
   },
   {
     label: 'Punjabi',
-    value: 'pa',
+    value: 'pa'
   },
   {
     label: 'Russian',
-    value: 'ru',
+    value: 'ru'
   },
   {
     label: 'Sinhala',
-    value: 'si',
+    value: 'si'
   },
   {
     label: 'Somalia',
-    value: 'so',
+    value: 'so'
   },
   {
     label: 'Spanish',
-    value: 'es',
+    value: 'es'
   },
   {
     label: 'Swahili',
-    value: 'sw',
+    value: 'sw'
   },
   {
     label: 'Tamil',
-    value: 'ta',
+    value: 'ta'
   },
   {
     label: 'Telugu',
-    value: 'te',
+    value: 'te'
   },
   {
     label: 'Urdu',
-    value: 'ur',
+    value: 'ur'
   },
   {
     label: 'Uyghur',
-    value: 'ug',
+    value: 'ug'
   },
   {
     label: 'Uzbek',
-    value: 'uz',
+    value: 'uz'
   },
   {
     label: 'Vietnamese',
-    value: 'vi',
+    value: 'vi'
   },
   {
     label: 'Welsh',
-    value: 'cy',
+    value: 'cy'
   },
   {
     label: 'Xhosa',
-    value: 'xh',
+    value: 'xh'
   },
   {
     label: 'Yiddish',
-    value: 'yi',
+    value: 'yi'
   },
   {
     label: 'Yoruba',
-    value: 'yo',
+    value: 'yo'
   },
   {
     label: 'Zulu',
-    value: 'zu',
+    value: 'zu'
   },
+    
 ];

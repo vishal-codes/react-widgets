@@ -11,7 +11,7 @@ import Routes from './routes';
 import { colorOptions } from './data/colorOptions';
 import { accordionOptions } from './data/accordionOptions';
 
-export default function App(){
+export default ()=> {
     const [selected, setSelected] = useState(colorOptions[0]);
 
     return (

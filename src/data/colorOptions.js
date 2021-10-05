@@ -1,179 +1,181 @@
 export const colorOptions = [
+
   {
     label: 'AntiqueWhite',
-    value: 'AntiqueWhite',
+    value: 'AntiqueWhite'
   },
   {
     label: 'Aqua',
-    value: 'Aqua',
+    value: 'Aqua'
   },
   {
     label: 'Aquamarine',
-    value: 'Aquamarine',
+    value: 'Aquamarine'
   },
   {
     label: 'Blue',
-    value: 'Blue',
+    value: 'Blue'
   },
   {
     label: 'BlueViolet',
-    value: 'BlueViolet',
+    value: 'BlueViolet'
   },
   {
     label: 'Brown',
-    value: 'Brown',
+    value: 'Brown'
   },
   {
     label: 'CadetBlue',
-    value: 'CadetBlue',
+    value: 'CadetBlue'
   },
   {
     label: 'Chartreuse',
-    value: 'Chartreuse',
+    value: 'Chartreuse'
   },
   {
     label: 'Chocolate',
-    value: 'Chocolate',
+    value: 'Chocolate'
   },
   {
     label: 'Coral',
-    value: 'Coral',
+    value: 'Coral'
   },
   {
     label: 'CornflowerBlue',
-    value: 'CornflowerBlue',
+    value: 'CornflowerBlue'
   },
   {
     label: 'Crimson',
-    value: 'Crimson',
+    value: 'Crimson'
   },
   {
     label: 'Cyan',
-    value: 'Cyan',
+    value: 'Cyan'
   },
   {
     label: 'DarkBlue',
-    value: 'DarkBlue',
+    value: 'DarkBlue'
   },
   {
     label: 'DarkCyan',
-    value: 'DarkCyan',
+    value: 'DarkCyan'
   },
   {
     label: 'DarkOliveGreen',
-    value: 'DarkOliveGreen',
+    value: 'DarkOliveGreen'
   },
   {
     label: 'DarkOrange',
-    value: 'DarkOrange',
+    value: 'DarkOrange'
   },
   {
     label: 'DarkGray',
-    value: 'DarkGray',
+    value: 'DarkGray'
   },
   {
     label: 'DarkGreen',
-    value: 'DarkGreen',
+    value: 'DarkGreen'
   },
   {
     label: 'DarkRed',
-    value: 'Darkred',
+    value: 'Darkred'
   },
   {
     label: 'DarkViolet',
-    value: 'DarkViolet',
+    value: 'DarkViolet'
   },
   {
     label: 'DeepPink',
-    value: 'DeepPink',
+    value: 'DeepPink'
   },
   {
     label: 'DimGray',
-    value: 'DimGray',
+    value: 'DimGray'
   },
   {
     label: 'Fuchsia',
-    value: 'Fuchsia',
+    value: 'Fuchsia'
   },
   {
     label: 'Gold',
-    value: 'Gold',
+    value: 'Gold'
   },
   {
     label: 'Green',
-    value: 'Green',
+    value: 'Green'
   },
   {
     label: 'HotPink',
-    value: 'HotPink',
+    value: 'HotPink'
   },
   {
     label: 'Khaki',
-    value: 'Khaki',
+    value: 'Khaki'
   },
   {
     label: 'LightSalmon',
-    value: 'LightSalmon',
+    value: 'LightSalmon'
   },
   {
     label: 'LightSeaGreen',
-    value: 'LightSeaGreen',
+    value: 'LightSeaGreen'
   },
   {
     label: 'Lime',
-    value: 'Lime',
+    value: 'Lime'
   },
   {
     label: 'Maroon',
-    value: 'Maroon',
+    value: 'Maroon'
   },
   {
     label: 'NavajoWhite',
-    value: 'NavajoWhite',
+    value: 'NavajoWhite'
   },
   {
     label: 'Olive',
-    value: 'Olive',
+    value: 'Olive'
   },
   {
     label: 'OrangeRed',
-    value: 'OrangeRed',
+    value: 'OrangeRed'
   },
   {
     label: 'Orchid',
-    value: 'Orchid',
+    value: 'Orchid'
   },
   {
     label: 'PaleVioletRed',
-    value: 'PaleVioletRed',
+    value: 'PaleVioletRed'
   },
   {
     label: 'Pink',
-    value: 'Pink',
+    value: 'Pink'
   },
   {
     label: 'Peru',
-    value: 'Peru',
+    value: 'Peru'
   },
   {
     label: 'Purple',
-    value: 'Purple',
+    value: 'Purple'
   },
 
   {
     label: 'Red',
-    value: 'Red',
+    value: 'Red'
   },
   {
     label: 'SandyBrown',
-    value: 'SandyBrown',
+    value: 'SandyBrown'
   },
   {
     label: 'Violet',
-    value: 'Violet',
+    value: 'Violet'
   },
   {
     label: 'Yellow',
-    value: 'Yellow',
+    value: 'Yellow'
   },
+    
 ];
