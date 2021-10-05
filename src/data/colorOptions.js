@@ -160,6 +160,10 @@ export const colorOptions = [
         value: 'Silver'
     },
     {
+        label: 'Tomato',
+        value: 'Tomato'
+    },
+    {
         label: 'Purple',
         value: 'Purple'
     },
