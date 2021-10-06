@@ -113,8 +113,8 @@ export const colorOptions = [
     value: 'Khaki'
   },
   {
-    label: 'Lavender',
-    value: 'Lavender'
+    label: 'LightBlue',
+    value: 'LightBlue'
   },  {
     label: 'LightPink',
     value: 'LightPink'
