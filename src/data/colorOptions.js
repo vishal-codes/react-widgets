@@ -131,12 +131,13 @@ export const colorOptions = [
       label: 'Lavender',
       value: 'Lavender'
   },
+  {  
+      label: 'LightBlue',
+      value: 'LightBlue'
+  },
   {
       label: 'LightCoral',
       value: 'LightCoral'
-  },  
-      label: 'LightBlue',
-      value: 'LightBlue'
   },  
   {
       label: 'LightPink',
