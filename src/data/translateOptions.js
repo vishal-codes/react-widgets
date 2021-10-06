@@ -21,6 +21,10 @@ export const translateOptions = [
     value: 'hy'
   },
   {
+    label: 'Azerbaijani',
+    value: 'az'
+  },
+  {
     label: 'Bengali',
     value: 'bn'
   },
@@ -159,6 +163,10 @@ export const translateOptions = [
   {
     label: 'Telugu',
     value: 'te'
+  },
+  {
+    label: 'Thai',
+    value: 'th'
   },
   {
     label: 'Urdu',
