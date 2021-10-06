@@ -115,7 +115,8 @@ export const colorOptions = [
   {
     label: 'LightBlue',
     value: 'LightBlue'
-  },  {
+  },  
+  {
     label: 'LightPink',
     value: 'LightPink'
   },
