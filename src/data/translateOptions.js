@@ -153,6 +153,14 @@ export const translateOptions = [
     value: 'sw'
   },
   {
+    label: 'Tagalog (Filipino)',
+    value: 'tl'
+  },
+  {
+    label: 'Tajik',
+    value: 'tg'
+  },
+  {
     label: 'Tamil',
     value: 'ta'
   },
