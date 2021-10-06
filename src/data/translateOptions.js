@@ -21,6 +21,14 @@ export const translateOptions = [
       value: 'hy'
   },  
   {  
+      label: 'Azerbaijani',
+      value: 'az'
+  },  
+  {  
+      label: 'Basque',
+      value: 'eu'
+  },  
+  {  
       label: 'Bengali',
       value: 'bn'
   },
