@@ -21,7 +21,7 @@ export const translateOptions = [
     },
     {
         label: 'Bengali',
-	value: 'bn'
+	      value: 'bn'
     },
     {
         label: 'Bosnian',
@@ -32,7 +32,7 @@ export const translateOptions = [
         value: 'bg'
     },
     {
-	label: 'Catalan',
+	      label: 'Catalan',
         value: 'ca'
     },
     {
@@ -188,3 +188,7 @@ export const translateOptions = [
         value: 'zu'
     },
 ]
+
+    
+];
+
