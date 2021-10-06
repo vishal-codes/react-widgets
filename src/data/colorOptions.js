@@ -118,6 +118,14 @@ export const colorOptions = [
   {
       label: 'Khaki',
       value: 'Khaki'
+  },
+  {
+      label: 'Lavender',
+      value: 'Lavender'
+  },
+  {
+      label: 'LightCoral',
+      value: 'LightCoral'
   },  
   {  
       label: 'LightSalmon',
