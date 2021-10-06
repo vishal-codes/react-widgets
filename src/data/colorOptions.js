@@ -84,8 +84,16 @@ export const colorOptions = [
       value: 'DarkMagenta'
   },
   {
+      label: 'DarkOrchid',
+      value: 'DarkOrchid'
+  },  
+  {
       label: 'DarkRed',
       value: 'Darkred'
+  },  
+  {
+      label: 'DarkTurquoise',
+      value: 'DarkTurquoise'
   },  
   {  
       label: 'DarkViolet',
