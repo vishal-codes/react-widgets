@@ -21,18 +21,18 @@ export const translateOptions = [
     },
     {
         label: 'Bengali',
-	    value: 'bn'
+	value: 'bn'
     },
     {
         label: 'Bosnian',
         value: 'bs'
     },
     {
-	    label: 'Bulgarian',
+        label: 'Bulgarian',
         value: 'bg'
     },
     {
-	    label: 'Catalan',
+	label: 'Catalan',
         value: 'ca'
     },
     {
