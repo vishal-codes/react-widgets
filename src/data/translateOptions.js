@@ -144,6 +144,14 @@ export const translateOptions = [
       label: 'Norwegian',
       value: 'no'
   },  
+  {
+      label: 'Persian',
+      value: 'fa'
+  },
+  {
+      label: 'Polish',
+      value: 'pl'
+  },
   {  
       label: 'Punjabi',
       value: 'pa'
