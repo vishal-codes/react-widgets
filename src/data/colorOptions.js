@@ -1,4 +1,5 @@
 export const colorOptions = [
+  
   {
       label: 'AntiqueWhite',
       value: 'AntiqueWhite'
@@ -103,6 +104,10 @@ export const colorOptions = [
       label: 'DeepPink',
       value: 'DeepPink'
   },  
+  {
+      label: 'DeepSkyBlue',
+      value: 'DeepSkyBlue'
+  },
   {  
       label: 'DimGray',
       value: 'DimGray'
@@ -227,4 +232,5 @@ export const colorOptions = [
       label: 'Yellow',
       value: 'Yellow'
   },
+
 ];
