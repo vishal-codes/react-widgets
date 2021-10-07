@@ -138,7 +138,11 @@ export const colorOptions = [
   {
       label: 'LightCoral',
       value: 'LightCoral'
-  },  
+  },
+  {
+    label: 'LightGreen',
+    value: 'LightGreen'
+},  
   {
       label: 'LightPink',
       value: 'LightPink'
@@ -154,7 +158,11 @@ export const colorOptions = [
   {  
       label: 'Lime',
       value: 'Lime'
-  },  
+  },
+  {  
+      label: 'Linen',
+      value: 'Linen'
+  }, 
   {  
       label: 'Maroon',
       value: 'Maroon'

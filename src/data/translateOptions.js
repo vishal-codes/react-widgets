@@ -151,6 +151,14 @@ export const translateOptions = [
   {  
       label: 'Russian',
       value: 'ru'
+  },
+  {  
+      label: 'Serbian',
+      value: 'sr'
+  },
+  {  
+      label: 'Sesotho',
+      value: 'st'
   },  
   {  
       label: 'Sinhala',
