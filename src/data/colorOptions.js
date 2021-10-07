@@ -76,12 +76,24 @@ export const colorOptions = [
     value: "DarkGreen",
   },
   {
+    label: "DarkKhaki",
+    value: "DarkKhaki",
+  },
+  {
+    label: "DarkMagenta",
+    value: "DarkMagenta",
+  },
+  {
+    label: "DarkOrchid",
+    value: "DarkOrchid",
+  },
+  {
     label: "DarkRed",
     value: "Darkred",
   },
   {
-    label: "DarkSalmon",
-    value: "DarkSalmon",
+    label: "DarkTurquoise",
+    value: "DarkTurquoise",
   },
   {
     label: "DarkViolet",
@@ -112,8 +124,24 @@ export const colorOptions = [
     value: "HotPink",
   },
   {
+    label: "Khaki",
+    value: "Khaki",
+  },
+  {
     label: "Lavender",
     value: "Lavender",
+  },
+  {
+    label: "LightBlue",
+    value: "LightBlue",
+  },
+  {
+    label: "LightCoral",
+    value: "LightCoral",
+  },
+  {
+    label: "LightPink",
+    value: "LightPink",
   },
   {
     label: "LightSalmon",
@@ -132,12 +160,8 @@ export const colorOptions = [
     value: "Maroon",
   },
   {
-    label: "MediumBlue",
-    value: "MediumBlue",
-  },
-  {
-    label: "MidnightBlue",
-    value: "MidnightBlue",
+    label: "NavajoWhite",
+    value: "NavajoWhite",
   },
   {
     label: "Olive",
@@ -152,6 +176,10 @@ export const colorOptions = [
     value: "Orchid",
   },
   {
+    label: "PaleVioletRed",
+    value: "PaleVioletRed",
+  },
+  {
     label: "Pink",
     value: "Pink",
   },
@@ -160,16 +188,16 @@ export const colorOptions = [
     value: "Peru",
   },
   {
-    label: "Silver",
-    value: "Silver",
-  },
-  {
     label: "Purple",
     value: "Purple",
   },
   {
     label: "Red",
     value: "Red",
+  },
+  {
+    label: "SandyBrown",
+    value: "SandyBrown",
   },
   {
     label: "Violet",
