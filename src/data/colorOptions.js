@@ -170,6 +170,14 @@ export const colorOptions = [
     value: 'SandyBrown'
   },
   {
+    label: 'Silver',
+    value: 'Silver'
+  },
+  {
+    label: 'teal',
+    value: 'teal'
+  },
+  {
     label: 'Violet',
     value: 'Violet'
   },

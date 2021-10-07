@@ -113,8 +113,16 @@ export const translateOptions = [
     value: 'ky'
   },
   {
+    label: 'Lao',
+    value: 'lo'
+  },
+  {
     label: 'Latvian',
     value: 'lv'
+  },
+  {
+    label: 'Lithuanian',
+    value: 'lt'
   },
   {
     label: 'Luxembourgish',
