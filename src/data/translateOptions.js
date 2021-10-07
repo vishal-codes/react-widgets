@@ -1,5 +1,4 @@
 export const translateOptions = [
-
   {
       label: 'Afrikaans',
       value: 'af'
@@ -185,12 +184,12 @@ export const translateOptions = [
       value: 'sv'
   },  
   {
-    label: 'Tagalog (Filipino)',
-    value: 'tl'
+      label: 'Tagalog (Filipino)',
+      value: 'tl'
   },
   {
-    label: 'Tajik',
-    value: 'tg'
+      label: 'Tajik',
+      value: 'tg'
   },
   {  
       label: 'Tamil',
@@ -240,5 +239,5 @@ export const translateOptions = [
       label: 'Zulu',
       value: 'zu'
   },
-    
+  
 ];
