@@ -52,8 +52,8 @@ export const colorOptions = [
         value: 'Cyan'
     },
     {
-	      label: 'DarkBlue',
-	      value: 'DarkBlue'
+	    label: 'DarkBlue',
+	    value: 'DarkBlue'
     },
     {
         label: 'DarkCyan',
@@ -183,5 +183,4 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-
 ];

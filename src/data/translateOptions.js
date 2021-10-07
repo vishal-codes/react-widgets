@@ -1,4 +1,5 @@
 export const translateOptions = [
+    
      { 
         label: 'Afrikaans',
         value: 'af'
@@ -75,7 +76,6 @@ export const translateOptions = [
         label: 'Hindi',
         value: 'hi'
     },
-    
     {
         label: 'Irish',
         value: 'ir'
@@ -204,4 +204,5 @@ export const translateOptions = [
         label: 'Zulu',
         value: 'zu'
     },
-]
+
+];
