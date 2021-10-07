@@ -162,6 +162,13 @@ export const colorOptions = [
   {
     label: "NavajoWhite",
     value: "NavajoWhite",
+
+    label: "MediumBlue",
+    value: "MediumBlue",
+  },
+  {
+    label: "MidnightBlue",
+    value: "MidnightBlue",
   },
   {
     label: "Olive",
