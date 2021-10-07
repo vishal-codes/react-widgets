@@ -60,22 +60,18 @@ export const colorOptions = [
       label: 'DarkCyan',
       value: 'DarkCyan'
   },
-  {
-      label: 'DarkOliveGreen',
-      value: 'DarkOliveGreen'
-  },  
   {  
-      label: 'DarkOrange',
-      value: 'DarkOrange'
-  },  
+      label: 'DarkGoldenRed',
+      value: 'DarkGoldenRed'
+  },
   {  
       label: 'DarkGray',
       value: 'DarkGray'
-  },  
+  },
   {  
       label: 'DarkGreen',
       value: 'DarkGreen'
-  },  
+  }, 
   {  
       label: 'DarkKhaki',
       value: 'DarkKhaki'
@@ -84,6 +80,14 @@ export const colorOptions = [
       label: 'DarkMagenta',
       value: 'DarkMagenta'
   },
+  {
+      label: 'DarkOliveGreen',
+      value: 'DarkOliveGreen'
+  },  
+  {  
+      label: 'DarkOrange',
+      value: 'DarkOrange'
+  },  
   {
       label: 'DarkOrchid',
       value: 'DarkOrchid'
@@ -189,21 +193,21 @@ export const colorOptions = [
       value: 'Orchid'
   },  
   {  
+      label: 'PaleGreen',
+      value: 'PaleGreen'
+  },  
+  {  
       label: 'PaleVioletRed',
       value: 'PaleVioletRed'
   },
   {  
-      label: 'PaleGreen',
-      value: 'PaleGreen'
-  },
+      label: 'Peru',
+      value: 'Peru'
+  }, 
   {
       label: 'Pink',
       value: 'Pink'
-  },  
-  {  
-      label: 'Peru',
-      value: 'Peru'
-  },  
+  },   
   {  
       label: 'Plum',
       value: 'Plum'
