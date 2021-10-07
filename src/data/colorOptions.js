@@ -136,6 +136,10 @@ export const colorOptions = [
         value: 'Lime'
     },
     {
+        label: 'Linen',
+        value: 'Linen'
+    },
+    {
         label: 'Maroon',
         value: 'Maroon'
     },
