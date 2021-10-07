@@ -115,7 +115,15 @@ export const colorOptions = [
   {  
       label: 'DimGray',
       value: 'DimGray'
-  },  
+  }, 
+  {
+      label: 'DodgerBlue',
+      value: 'DodgerBlue'
+  }, 
+  {
+      label: 'ForestGreen',
+      value: 'ForestGreen'
+  },
   {  
       label: 'Fuchsia',
       value: 'Fuchsia'
