@@ -87,13 +87,18 @@ export const colorOptions = [
     label: "DarkOrchid",
     value: "DarkOrchid",
   },
+
+  {
+    label: "DarkTurquoise",
+    value: "DarkTurquoise",
+  },
   {
     label: "DarkRed",
     value: "Darkred",
   },
   {
-    label: "DarkTurquoise",
-    value: "DarkTurquoise",
+    label: "DarkSalmon",
+    value: "DarkSalmon",
   },
   {
     label: "DarkViolet",
@@ -142,6 +147,10 @@ export const colorOptions = [
   {
     label: "LightPink",
     value: "LightPink",
+  },
+  {
+    label: "Lavender",
+    value: "Lavender",
   },
   {
     label: "LightSalmon",
@@ -193,6 +202,10 @@ export const colorOptions = [
   {
     label: "Peru",
     value: "Peru",
+  },
+  {
+    label: "Silver",
+    value: "Silver",
   },
   {
     label: "Purple",
