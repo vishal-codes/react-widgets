@@ -215,6 +215,10 @@ export const colorOptions = [
       label: 'SandyBrown',
       value: 'SandyBrown'
   },  
+  {
+      label: 'Tomato',
+      value: 'Tomato'
+  },
   {  
       label: 'Violet',
       value: 'Violet'
