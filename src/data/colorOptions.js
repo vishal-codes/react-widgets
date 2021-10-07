@@ -187,6 +187,10 @@ export const colorOptions = [
       label: 'PaleVioletRed',
       value: 'PaleVioletRed'
   },
+  {  
+      label: 'PaleGreen',
+      value: 'PaleGreen'
+  },
   {
       label: 'Pink',
       value: 'Pink'
@@ -195,6 +199,10 @@ export const colorOptions = [
       label: 'Peru',
       value: 'Peru'
   },  
+  {  
+      label: 'Plum',
+      value: 'Plum'
+  },
   {  
       label: 'Purple',
       value: 'Purple'
