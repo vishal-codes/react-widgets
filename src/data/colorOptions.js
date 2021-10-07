@@ -52,12 +52,16 @@ export const colorOptions = [
         value: 'Cyan'
     },
     {
-	      label: 'DarkBlue',
-	      value: 'DarkBlue'
+        label: 'DarkBlue',
+        value: 'DarkBlue'
     },
     {
         label: 'DarkCyan',
         value: 'DarkCyan'
+    },
+    {
+        label: 'DarkKhaki',
+        value: 'DarkKhaki'
     },
     {
         label: 'DarkOliveGreen',
@@ -110,6 +114,10 @@ export const colorOptions = [
     {
         label: 'HotPink',
         value: 'HotPink'
+    },
+    {
+        label: 'Khaki',
+        value: 'Khaki'
     },
     {
         label: 'Lavender',
@@ -171,12 +179,5 @@ export const colorOptions = [
         label: 'Yellow',
         value: 'Yellow'
     },
-    {
-        label: 'Khaki',
-        value: 'Khaki'
-    },
-    {
-        label: 'DarkKhaki',
-        value: 'DarkKhaki'
-    },
+    
 ];
