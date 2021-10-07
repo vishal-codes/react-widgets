@@ -1,5 +1,5 @@
 export const translateOptions = [
-
+  
   {
       label: 'Afrikaans',
       value: 'af'
@@ -28,6 +28,10 @@ export const translateOptions = [
       label: 'Basque',
       value: 'eu'
   },  
+  {
+      label: 'Belarusian',
+      value: 'be',
+  },
   {  
       label: 'Bengali',
       value: 'bn'
@@ -64,6 +68,10 @@ export const translateOptions = [
       label: 'English',
       value: 'en'
   },  
+  {
+      label: 'Esperanto',
+      value: 'eo'
+  },
   {  
       label: 'Finnish',
       value: 'fi'
@@ -185,12 +193,12 @@ export const translateOptions = [
       value: 'sv'
   },  
   {
-    label: 'Tagalog (Filipino)',
-    value: 'tl'
+      label: 'Tagalog (Filipino)',
+      value: 'tl'
   },
   {
-    label: 'Tajik',
-    value: 'tg'
+      label: 'Tajik',
+      value: 'tg'
   },
   {  
       label: 'Tamil',
@@ -240,5 +248,5 @@ export const translateOptions = [
       label: 'Zulu',
       value: 'zu'
   },
-    
+  
 ];

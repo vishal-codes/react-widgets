@@ -1,4 +1,5 @@
 export const colorOptions = [
+  
   {
       label: 'AntiqueWhite',
       value: 'AntiqueWhite'
@@ -103,6 +104,10 @@ export const colorOptions = [
       label: 'DeepPink',
       value: 'DeepPink'
   },  
+  {
+      label: 'DeepSkyBlue',
+      value: 'DeepSkyBlue'
+  },
   {  
       label: 'DimGray',
       value: 'DimGray'
@@ -140,9 +145,9 @@ export const colorOptions = [
       value: 'LightCoral'
   },
   {
-    label: 'LightGreen',
-    value: 'LightGreen'
-},  
+      label: 'LightGreen',
+      value: 'LightGreen'
+  },  
   {
       label: 'LightPink',
       value: 'LightPink'
@@ -215,6 +220,10 @@ export const colorOptions = [
       label: 'SandyBrown',
       value: 'SandyBrown'
   },  
+  {
+      label: 'Tomato',
+      value: 'Tomato'
+  },
   {  
       label: 'Violet',
       value: 'Violet'
@@ -234,9 +243,5 @@ export const colorOptions = [
   {  
     label: 'Grey',
     value: 'Grey'
-  },
-  {  
-    label: 'Tomato',
-    value: 'Tomato'
   },
 ];
