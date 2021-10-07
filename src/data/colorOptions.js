@@ -244,5 +244,16 @@ export const colorOptions = [
       label: 'Yellow',
       value: 'Yellow'
   },
-
+  {  
+    label: 'Navy',
+    value: 'Navy'
+  },
+  {  
+    label: 'Teal',
+    value: 'Teal'
+  },
+  {  
+    label: 'Grey',
+    value: 'Grey'
+  },
 ];
