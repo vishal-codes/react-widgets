@@ -1,4 +1,5 @@
 export const translateOptions = [
+
     {
         label: 'Afrikaans',
         value: 'af'
@@ -17,11 +18,27 @@ export const translateOptions = [
     },
     {
         label: 'Armenian',
-        value: 'hy',
+        value: 'hy'
+    },
+    {
+        label: 'Azerbaijani',
+        value: 'az'
+    },
+    {
+        label: 'Basque',
+        value: 'eu'
+    },
+    {
+        label: 'Belarusian',
+        value: 'be',
     },
     {
         label: 'Bengali',
         value: 'bn'
+    },
+    {
+        label: 'Bosnian',
+        value: 'bs'
     },
     {
         label: 'Bulgarian',
@@ -30,6 +47,10 @@ export const translateOptions = [
     {
         label: 'Catalan',
         value: 'ca'
+    },
+    {
+        label: 'Croatian',
+        value: 'hr'
     },
     {
         label: 'Czech',
@@ -46,6 +67,10 @@ export const translateOptions = [
     {
         label: 'English',
         value: 'en'
+    },
+    {
+        label: 'Esperanto',
+        value: 'eo'
     },
     {
         label: 'Finnish',
@@ -72,12 +97,20 @@ export const translateOptions = [
         value: 'gu'
     },
     {
+        label: 'Hausa',
+        value: 'ha'
+    },
+    {
         label: 'Hindi',
-        value: 'hi'
+        value: 'hi',
     },
     {
         label: 'Indonesian',
         value: 'id'
+    },
+    {
+        label: 'Igbo',
+        value: 'ig'
     },
     {
         label: 'Italian',
@@ -88,16 +121,24 @@ export const translateOptions = [
         value: 'ja'
     },
     {
+        label: 'Khmer',
+        value: 'km'
+    },
+    {
         label: 'Korean',
         value: 'ko'
     },
     {
         label: 'Kurdish',
-        vallue: 'ku'
+        value: 'ku'
     },
     {
         label: 'Kyrgyz',
         value: 'ky'
+    },
+    {
+        label: 'Latvian',
+        value: 'lv'
     },
     {
         label: 'Luxembourgish',
@@ -116,6 +157,14 @@ export const translateOptions = [
         value: 'no'
     },
     {
+        label: 'Persian',
+        value: 'fa'
+    },
+    {
+        label: 'Polish',
+        value: 'pl'
+    },
+    {
         label: 'Punjabi',
         value: 'pa'
     },
@@ -124,8 +173,20 @@ export const translateOptions = [
         value: 'ru'
     },
     {
+        label: 'Serbian',
+        value: 'sr'
+    },
+    {
+        label: 'Sesotho',
+        value: 'st'
+    },
+    {
         label: 'Sinhala',
         value: 'si'
+    },
+    {
+        label: 'Slovenian',
+        value: 'sl'
     },
     {
         label: 'Somalia',
@@ -140,12 +201,28 @@ export const translateOptions = [
         value: 'sw'
     },
     {
+        label: 'Swedish',
+        value: 'sv'
+    },
+    {
+        label: 'Tagalog (Filipino)',
+        value: 'tl'
+    },
+    {
+        label: 'Tajik',
+        value: 'tg'
+    },
+    {
         label: 'Tamil',
         value: 'ta'
     },
     {
         label: 'Telugu',
         value: 'te'
+    },
+    {
+        label: 'Turkish',
+        value: 'tr'
     },
     {
         label: 'Urdu',
@@ -183,4 +260,5 @@ export const translateOptions = [
         label: 'Zulu',
         value: 'zu'
     },
-]
+
+];
