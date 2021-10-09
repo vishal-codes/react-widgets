@@ -97,6 +97,14 @@ export const colorOptions = [
       value: 'Darkred',
   },  
   {  
+      label: 'DarkSlateBlue',
+      value: 'DarkSlateBlue',
+  },  
+  {  
+      label: 'DarkSalmon',
+      value: 'DarkSalmon',
+  },  
+  {  
       label: 'DarkTurquoise',
       value: 'DarkTurquoise',
   },  
