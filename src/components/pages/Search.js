@@ -5,8 +5,7 @@ import axios from 'axios';
 const Search = () => {
 
     const [results, setResults] = useState([]);
-
-    const search = async (term) => {
+    const getData = async (term) => {
         const { data } = await axios.get('https://en.wikipedia.org/w/api.php', {
             params: {
                 action: 'query',
@@ -16,7 +15,14 @@ const Search = () => {
                 srsearch: term
             },
         });
-        setResults(data.query.search);
+        return data.query.search;
+    }
+
+    const search = async (term) => {
+        if(term) {
+        const data = await getData(term);
+        setResults(data);
+        }
     };
 
     const onSearchInputChange = debounce(function (event) {
