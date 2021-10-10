@@ -1,0 +1,18 @@
+.editor-container{
+   display: flex;
+   flex-direction: column;
+   gap: 1rem;
+}
+.editor-title{
+ color: white;
+}
+.editor-title-text{
+ height: 3rem;
+ border-radius: 0.5rem;
+}
+.editor-content{
+    color: white;
+}
+.editor-content-text{
+    color: black;
+}

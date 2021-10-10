@@ -19,6 +19,9 @@ const Header = () => {
             <Link href="/textutils" className="item">
                 TextUtils
             </Link>
+            <Link href="/editor" className="item">
+                Editor
+            </Link>
         </div>
     );
 };
