@@ -257,8 +257,17 @@ export const translateOptions = [
         value: 'yo'
     },
     {
+        label: 'Zaghawa',
+        value: 'Zaghawa'
+    },
+    {
+        label: 'Zaza',
+        value: 'Zaza'
+    },
+    {
         label: 'Zulu',
         value: 'zu'
     },
+
 
 ];
