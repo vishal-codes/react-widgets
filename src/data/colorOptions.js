@@ -143,7 +143,11 @@ export const colorOptions = [
   {  
       label: 'Green',
       value: 'Green',
-  },  
+  },
+  {  
+      label: 'GreenYellow',
+      value: 'GreenYellow',
+  }, 
   {  
       label: 'Grey',
       value: 'Grey',
@@ -151,7 +155,15 @@ export const colorOptions = [
   {  
       label: 'HotPink',
       value: 'HotPink',
-  },  
+  },
+  {  
+      label: 'IndigoRed',
+      value: 'IndigoRed',
+  }, 
+  {  
+      label: 'Indigo',
+      value: 'Indigo',
+  }, 
   {  
       label: 'Khaki',
       value: 'Khaki',
@@ -192,6 +204,10 @@ export const colorOptions = [
       label: 'Linen',
       value: 'Linen',
   },  
+  {  
+      label: 'Magenta',
+      value: 'Magenta',
+  }, 
   {  
       label: 'Maroon',
       value: 'Maroon',
@@ -257,20 +273,41 @@ export const colorOptions = [
       value: 'SandyBrown',
   },  
   {  
-      label: 'Tomato',
-      value: 'Tomato',
-  },  
+      label: 'Silver',
+      value: 'Silver',
+  }, 
+  {  
+      label: 'Snow',
+      value: 'Snow',
+  },
   {  
       label: 'Teal',
       value: 'Teal',
-  },  
+  },
+  {  
+      label: 'Tomato',
+      value: 'Tomato',
+  },
+  {  
+      label: 'Turquoise',
+      value: 'Turquoise',
+  },
+    
   {  
       label: 'Violet',
       value: 'Violet',
-  },  
+  }, 
+  {  
+      label: 'WhiteSmoke',
+      value: 'WhiteSmoke',
+  },
   {  
       label: 'Yellow',
       value: 'Yellow',
-  },  
+  },
+  {  
+      label: 'YellowGreen',
+      value: 'YellowGreen',
+  }, 
   
 ];
