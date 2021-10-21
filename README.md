@@ -1,7 +1,7 @@
 # Widgets
 
 ## Update
-This is a read-only project, so there will not be any further changes in the project.
+This is a read-only project, so there will not be any further changes in the project and also I have used up my google cloud free credits so google translate api won't work.
 
 ## Description
 
