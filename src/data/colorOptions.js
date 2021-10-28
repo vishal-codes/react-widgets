@@ -249,6 +249,10 @@ export const colorOptions = [
       value: 'PaleVioletRed',
   },  
   {  
+      label: 'Peach',
+      value: 'Peach',
+  },    
+  {  
       label: 'Peru',
       value: 'Peru',
   },  
