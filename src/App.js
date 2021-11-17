@@ -4,14 +4,14 @@ import Search from './components/pages/Search';
 import Dropdown from './components/pages/Dropdown';
 import Translate from './components/pages/Translate';
 import TextUtils from './components/pages/TextUtils'
-
+import Editor from "./components/pages/Editor/Editor"
 import Header from './components/base/Header';
 
 import Routes from './routes';
 import { colorOptions } from './data/colorOptions';
 import { accordionOptions } from './data/accordionOptions';
 
-export default ()=> {
+const App = ()=> {
     const [selected, setSelected] = useState(colorOptions[0]);
 
     return (
@@ -38,6 +38,11 @@ export default ()=> {
             <Routes path="/textutils">
                 <TextUtils />
             </Routes>
+            <Routes path="/editor">
+                <Editor />
+            </Routes>
         </div>
     );
 };
+
+export default App
